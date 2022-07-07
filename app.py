@@ -1,7 +1,5 @@
 # database
 from PIL import Image
-import lime.lime_tabular
-import lime
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 from sklearn.linear_model import LogisticRegression
