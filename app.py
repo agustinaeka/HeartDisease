@@ -314,8 +314,8 @@ def main():
                 st.warning(
                     "Pasien terdiagnosa penyakit Jantung")
                 pred_probability_score = {
-                    "Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][1]*100),
-                    "Tidak Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][0]*100)}
+                    "Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][0]*100),
+                    "Tidak Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][1]*100)}
                 st.subheader(
                     "Prediction Probability Score ")
                 st.json(pred_probability_score)
@@ -328,8 +328,8 @@ def main():
                 st.success(
                     "Pasien Tidak terdiagnosa penyakit Jantung")
                 pred_probability_score = {
-                    "Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][1]*100),
-                    "Tidak Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][0]*100)}
+                    "Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][0]*100),
+                    "Tidak Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][1]*100)}
                 st.subheader(
                     "Prediction Probability Score ")
                 st.json(pred_probability_score)
