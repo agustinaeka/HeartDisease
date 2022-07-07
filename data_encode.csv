@@ -1,0 +1,919 @@
+age,sex,chest pain type,resting bp s,cholesterol,fasting blood sugar,resting ecg,max heart rate,exercise angina,oldpeak,ST slope,target
+40,laki-laki,atypical angina,140,289,<120,Normal,172,tidak,0.0,upsloping,tidak terkena penyakit
+49,perempuan,non-anginal pain,160,180,<120,Normal,156,tidak,1.0,flat,terkena penyakit
+37,laki-laki,atypical angina,130,283,<120,ST-T Abnormal,98,tidak,0.0,upsloping,tidak terkena penyakit
+48,perempuan,asymptomatic,138,214,<120,Normal,108,ya,1.5,flat,terkena penyakit
+54,laki-laki,non-anginal pain,150,195,<120,Normal,122,tidak,0.0,upsloping,tidak terkena penyakit
+39,laki-laki,non-anginal pain,120,339,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+45,perempuan,atypical angina,130,237,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,atypical angina,110,208,<120,Normal,142,tidak,0.0,upsloping,tidak terkena penyakit
+37,laki-laki,asymptomatic,140,207,<120,Normal,130,ya,1.5,flat,terkena penyakit
+48,perempuan,atypical angina,120,284,<120,Normal,120,tidak,0.0,upsloping,tidak terkena penyakit
+37,perempuan,non-anginal pain,130,211,<120,Normal,142,tidak,0.0,upsloping,tidak terkena penyakit
+58,laki-laki,atypical angina,136,164,<120,ST-T Abnormal,99,ya,2.0,flat,terkena penyakit
+39,laki-laki,atypical angina,120,204,<120,Normal,145,tidak,0.0,upsloping,tidak terkena penyakit
+49,laki-laki,asymptomatic,140,234,<120,Normal,140,ya,1.0,flat,terkena penyakit
+42,perempuan,non-anginal pain,115,211,<120,ST-T Abnormal,137,tidak,0.0,upsloping,tidak terkena penyakit
+54,perempuan,atypical angina,120,273,<120,Normal,150,tidak,1.5,flat,tidak terkena penyakit
+38,laki-laki,asymptomatic,110,196,<120,Normal,166,tidak,0.0,flat,terkena penyakit
+43,perempuan,atypical angina,120,201,<120,Normal,165,tidak,0.0,upsloping,tidak terkena penyakit
+60,laki-laki,asymptomatic,106,248,<120,Normal,125,tidak,1.0,flat,terkena penyakit
+36,laki-laki,atypical angina,120,267,<120,Normal,160,tidak,3.0,flat,terkena penyakit
+43,perempuan,typical angina,106,223,<120,Normal,142,tidak,0.0,upsloping,tidak terkena penyakit
+44,laki-laki,atypical angina,120,184,<120,Normal,142,tidak,1.0,flat,tidak terkena penyakit
+49,perempuan,atypical angina,124,201,<120,Normal,164,tidak,0.0,upsloping,tidak terkena penyakit
+44,laki-laki,atypical angina,150,288,<120,Normal,150,ya,3.0,flat,terkena penyakit
+40,laki-laki,non-anginal pain,130,215,<120,Normal,138,tidak,0.0,upsloping,tidak terkena penyakit
+36,laki-laki,non-anginal pain,130,209,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+53,laki-laki,asymptomatic,124,260,<120,ST-T Abnormal,112,ya,3.0,flat,tidak terkena penyakit
+52,laki-laki,atypical angina,120,284,<120,Normal,118,tidak,0.0,upsloping,tidak terkena penyakit
+53,perempuan,atypical angina,113,385,<120,Normal,127,tidak,0.0,upsloping,tidak terkena penyakit
+51,laki-laki,atypical angina,125,188,<120,Normal,145,tidak,0.0,upsloping,tidak terkena penyakit
+53,laki-laki,non-anginal pain,145,385,<120,Normal,130,tidak,0.0,flat,terkena penyakit
+56,laki-laki,non-anginal pain,130,167,<120,Normal,114,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,asymptomatic,125,224,<120,Normal,122,tidak,2.0,flat,terkena penyakit
+41,laki-laki,asymptomatic,130,172,<120,ST-T Abnormal,130,tidak,2.0,flat,terkena penyakit
+43,perempuan,atypical angina,150,186,<120,Normal,154,tidak,0.0,upsloping,tidak terkena penyakit
+32,laki-laki,atypical angina,125,254,<120,Normal,155,tidak,0.0,upsloping,tidak terkena penyakit
+65,laki-laki,asymptomatic,140,306,>120,Normal,96,ya,1.5,flat,terkena penyakit
+41,perempuan,atypical angina,110,250,<120,ST-T Abnormal,142,tidak,0.0,upsloping,tidak terkena penyakit
+48,perempuan,atypical angina,120,177,>120,ST-T Abnormal,148,tidak,0.0,upsloping,tidak terkena penyakit
+48,perempuan,asymptomatic,150,227,<120,Normal,130,ya,1.0,flat,tidak terkena penyakit
+54,perempuan,atypical angina,150,230,<120,Normal,130,tidak,0.0,upsloping,tidak terkena penyakit
+54,perempuan,non-anginal pain,130,294,<120,ST-T Abnormal,100,ya,0.0,flat,terkena penyakit
+35,laki-laki,atypical angina,150,264,<120,Normal,168,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,non-anginal pain,140,259,<120,ST-T Abnormal,170,tidak,0.0,upsloping,tidak terkena penyakit
+43,laki-laki,asymptomatic,120,175,<120,Normal,120,ya,1.0,flat,terkena penyakit
+59,laki-laki,non-anginal pain,130,318,<120,Normal,120,ya,1.0,flat,tidak terkena penyakit
+37,laki-laki,asymptomatic,120,223,<120,Normal,168,tidak,0.0,upsloping,tidak terkena penyakit
+50,laki-laki,atypical angina,140,216,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+36,laki-laki,non-anginal pain,112,340,<120,Normal,178,tidak,1.0,flat,tidak terkena penyakit
+41,laki-laki,asymptomatic,110,289,<120,Normal,170,tidak,0.0,flat,terkena penyakit
+50,laki-laki,asymptomatic,130,233,<120,Normal,121,ya,2.0,flat,terkena penyakit
+47,perempuan,asymptomatic,120,205,<120,Normal,98,ya,2.0,flat,terkena penyakit
+45,laki-laki,atypical angina,140,224,>120,Normal,122,tidak,0.0,upsloping,tidak terkena penyakit
+41,perempuan,atypical angina,130,245,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+52,perempuan,asymptomatic,130,180,<120,Normal,140,ya,1.5,flat,tidak terkena penyakit
+51,perempuan,atypical angina,160,194,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+31,laki-laki,asymptomatic,120,270,<120,Normal,153,ya,1.5,flat,terkena penyakit
+58,laki-laki,non-anginal pain,130,213,<120,ST-T Abnormal,140,tidak,0.0,flat,terkena penyakit
+54,laki-laki,asymptomatic,150,365,<120,ST-T Abnormal,134,tidak,1.0,upsloping,tidak terkena penyakit
+52,laki-laki,asymptomatic,112,342,<120,ST-T Abnormal,96,ya,1.0,flat,terkena penyakit
+49,laki-laki,atypical angina,106,253,<120,Normal,174,tidak,0.0,upsloping,tidak terkena penyakit
+43,perempuan,non-anginal pain,150,254,<120,Normal,175,tidak,0.0,upsloping,tidak terkena penyakit
+45,laki-laki,asymptomatic,140,224,<120,Normal,144,tidak,0.0,upsloping,tidak terkena penyakit
+46,laki-laki,asymptomatic,120,277,<120,Normal,125,ya,1.0,flat,terkena penyakit
+50,perempuan,atypical angina,110,202,<120,Normal,145,tidak,0.0,upsloping,tidak terkena penyakit
+37,perempuan,atypical angina,120,260,<120,Normal,130,tidak,0.0,upsloping,tidak terkena penyakit
+45,perempuan,asymptomatic,132,297,<120,Normal,144,tidak,0.0,upsloping,tidak terkena penyakit
+32,laki-laki,atypical angina,110,225,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,asymptomatic,160,246,<120,ST-T Abnormal,96,ya,3.0,flat,terkena penyakit
+44,laki-laki,asymptomatic,150,385,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+57,laki-laki,atypical angina,140,265,<120,ST-T Abnormal,145,ya,1.0,flat,terkena penyakit
+44,laki-laki,atypical angina,130,215,<120,Normal,135,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,asymptomatic,120,182,<120,Normal,150,tidak,0.0,flat,terkena penyakit
+44,perempuan,asymptomatic,120,218,<120,ST-T Abnormal,115,tidak,0.0,upsloping,tidak terkena penyakit
+55,laki-laki,asymptomatic,140,268,<120,Normal,128,ya,1.5,flat,terkena penyakit
+46,laki-laki,non-anginal pain,150,163,<120,Normal,116,tidak,0.0,upsloping,tidak terkena penyakit
+32,laki-laki,asymptomatic,118,385,<120,Normal,130,tidak,0.0,flat,terkena penyakit
+35,perempuan,asymptomatic,140,167,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,atypical angina,140,100,<120,Normal,138,ya,0.0,upsloping,tidak terkena penyakit
+49,laki-laki,asymptomatic,130,206,<120,Normal,170,tidak,0.0,flat,terkena penyakit
+55,laki-laki,non-anginal pain,110,277,<120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,atypical angina,120,238,<120,Normal,154,tidak,0.0,upsloping,tidak terkena penyakit
+63,laki-laki,asymptomatic,150,223,<120,Normal,115,tidak,0.0,flat,terkena penyakit
+52,laki-laki,atypical angina,160,196,<120,Normal,165,tidak,0.0,upsloping,tidak terkena penyakit
+56,laki-laki,asymptomatic,150,213,>120,Normal,125,ya,1.0,flat,terkena penyakit
+66,laki-laki,asymptomatic,140,139,<120,Normal,96,ya,1.0,flat,terkena penyakit
+65,laki-laki,asymptomatic,160,263,>120,Normal,112,ya,2.0,flat,terkena penyakit
+53,perempuan,atypical angina,140,216,<120,Normal,142,ya,2.0,flat,tidak terkena penyakit
+43,laki-laki,typical angina,120,291,<120,ST-T Abnormal,155,tidak,0.0,flat,terkena penyakit
+55,laki-laki,asymptomatic,140,229,<120,Normal,110,ya,0.5,flat,tidak terkena penyakit
+49,perempuan,atypical angina,110,208,<120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+39,laki-laki,asymptomatic,130,307,<120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+52,perempuan,atypical angina,120,210,<120,Normal,148,tidak,0.0,upsloping,tidak terkena penyakit
+48,laki-laki,asymptomatic,160,329,<120,Normal,96,ya,1.5,flat,terkena penyakit
+39,perempuan,non-anginal pain,110,182,<120,ST-T Abnormal,178,tidak,0.0,upsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,130,263,<120,Normal,140,ya,2.0,flat,terkena penyakit
+43,laki-laki,atypical angina,142,207,<120,Normal,138,tidak,0.0,upsloping,tidak terkena penyakit
+39,laki-laki,non-anginal pain,160,147,>120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+56,laki-laki,asymptomatic,120,85,<120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+41,laki-laki,atypical angina,125,269,<120,Normal,144,tidak,0.0,upsloping,tidak terkena penyakit
+65,laki-laki,asymptomatic,130,275,<120,ST-T Abnormal,115,ya,1.0,flat,terkena penyakit
+51,laki-laki,asymptomatic,130,179,<120,Normal,100,tidak,0.0,upsloping,tidak terkena penyakit
+40,perempuan,asymptomatic,150,385,<120,Normal,130,tidak,2.0,flat,terkena penyakit
+40,laki-laki,asymptomatic,120,385,>120,Normal,152,ya,1.0,flat,terkena penyakit
+46,laki-laki,asymptomatic,118,186,<120,Normal,124,tidak,0.0,flat,terkena penyakit
+57,laki-laki,atypical angina,140,260,>120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+48,perempuan,asymptomatic,120,254,<120,ST-T Abnormal,110,tidak,0.0,upsloping,tidak terkena penyakit
+34,laki-laki,atypical angina,150,214,<120,ST-T Abnormal,168,tidak,0.0,upsloping,tidak terkena penyakit
+50,laki-laki,asymptomatic,140,129,<120,Normal,135,tidak,0.0,upsloping,tidak terkena penyakit
+39,laki-laki,atypical angina,160,241,<120,Normal,106,tidak,0.0,upsloping,tidak terkena penyakit
+59,perempuan,atypical angina,130,188,<120,Normal,124,tidak,1.0,flat,tidak terkena penyakit
+57,laki-laki,asymptomatic,150,255,<120,Normal,96,ya,3.0,flat,terkena penyakit
+47,laki-laki,asymptomatic,140,276,>120,Normal,125,ya,0.0,upsloping,tidak terkena penyakit
+38,laki-laki,atypical angina,140,297,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+49,perempuan,non-anginal pain,130,207,<120,ST-T Abnormal,135,tidak,0.0,upsloping,tidak terkena penyakit
+33,perempuan,asymptomatic,106,246,<120,Normal,150,ya,1.0,flat,terkena penyakit
+38,laki-laki,asymptomatic,120,282,<120,Normal,170,tidak,0.0,flat,terkena penyakit
+59,perempuan,asymptomatic,130,338,>120,ST-T Abnormal,130,ya,1.5,flat,terkena penyakit
+35,perempuan,typical angina,120,160,<120,ST-T Abnormal,178,tidak,0.0,upsloping,tidak terkena penyakit
+34,laki-laki,typical angina,140,156,<120,Normal,178,tidak,0.0,flat,terkena penyakit
+47,perempuan,non-anginal pain,135,248,>120,Normal,170,tidak,0.0,flat,terkena penyakit
+52,perempuan,non-anginal pain,125,272,<120,Normal,139,tidak,0.0,upsloping,tidak terkena penyakit
+46,laki-laki,asymptomatic,110,240,<120,ST-T Abnormal,140,tidak,0.0,upsloping,tidak terkena penyakit
+58,perempuan,atypical angina,160,385,<120,Normal,110,ya,1.0,flat,terkena penyakit
+58,laki-laki,atypical angina,130,230,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,atypical angina,120,246,<120,Normal,110,tidak,0.0,upsloping,tidak terkena penyakit
+34,perempuan,atypical angina,130,161,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+48,perempuan,asymptomatic,108,163,<120,Normal,175,tidak,2.0,upsloping,tidak terkena penyakit
+54,perempuan,atypical angina,120,230,>120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+42,laki-laki,non-anginal pain,120,228,<120,Normal,152,ya,1.5,flat,tidak terkena penyakit
+38,laki-laki,non-anginal pain,145,292,<120,Normal,130,tidak,0.0,upsloping,tidak terkena penyakit
+46,laki-laki,asymptomatic,110,202,<120,Normal,150,ya,0.0,flat,terkena penyakit
+56,laki-laki,asymptomatic,160,385,<120,ST-T Abnormal,122,ya,2.0,flat,terkena penyakit
+56,laki-laki,asymptomatic,150,230,<120,ST-T Abnormal,124,ya,1.5,flat,terkena penyakit
+61,perempuan,asymptomatic,130,294,<120,ST-T Abnormal,120,ya,1.0,flat,tidak terkena penyakit
+49,laki-laki,non-anginal pain,115,265,<120,Normal,175,tidak,0.0,flat,terkena penyakit
+43,perempuan,atypical angina,120,215,<120,ST-T Abnormal,175,tidak,0.0,upsloping,tidak terkena penyakit
+39,laki-laki,atypical angina,120,241,<120,ST-T Abnormal,146,tidak,2.0,upsloping,tidak terkena penyakit
+54,laki-laki,asymptomatic,140,166,<120,Normal,118,ya,0.0,flat,terkena penyakit
+43,laki-laki,asymptomatic,150,247,<120,Normal,130,ya,2.0,flat,terkena penyakit
+52,laki-laki,asymptomatic,160,331,<120,Normal,96,ya,2.5,flat,terkena penyakit
+50,laki-laki,asymptomatic,140,341,<120,ST-T Abnormal,125,ya,2.5,flat,terkena penyakit
+47,laki-laki,asymptomatic,160,291,<120,ST-T Abnormal,158,ya,3.0,flat,terkena penyakit
+53,laki-laki,asymptomatic,140,243,<120,Normal,155,tidak,0.0,upsloping,tidak terkena penyakit
+56,perempuan,atypical angina,120,279,<120,Normal,150,tidak,1.0,flat,terkena penyakit
+39,laki-laki,asymptomatic,110,273,<120,Normal,132,tidak,0.0,upsloping,tidak terkena penyakit
+42,laki-laki,atypical angina,120,198,<120,Normal,155,tidak,0.0,upsloping,tidak terkena penyakit
+43,perempuan,atypical angina,120,249,<120,ST-T Abnormal,176,tidak,0.0,upsloping,tidak terkena penyakit
+50,laki-laki,atypical angina,120,168,<120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,asymptomatic,130,385,>120,Normal,125,ya,1.0,flat,terkena penyakit
+39,laki-laki,atypical angina,130,215,<120,Normal,120,tidak,0.0,upsloping,tidak terkena penyakit
+48,laki-laki,atypical angina,106,159,<120,Normal,100,tidak,0.0,upsloping,tidak terkena penyakit
+40,laki-laki,atypical angina,130,275,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+55,laki-laki,asymptomatic,120,270,<120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+41,laki-laki,atypical angina,120,291,<120,ST-T Abnormal,160,tidak,0.0,upsloping,tidak terkena penyakit
+56,laki-laki,asymptomatic,155,342,>120,Normal,150,ya,3.0,flat,terkena penyakit
+38,laki-laki,asymptomatic,110,190,<120,Normal,150,ya,1.0,flat,terkena penyakit
+49,laki-laki,asymptomatic,140,185,<120,Normal,130,tidak,0.0,upsloping,tidak terkena penyakit
+44,laki-laki,asymptomatic,130,290,<120,Normal,100,ya,2.0,flat,terkena penyakit
+54,laki-laki,atypical angina,160,195,<120,ST-T Abnormal,130,tidak,1.0,upsloping,tidak terkena penyakit
+59,laki-laki,asymptomatic,140,264,>120,Hipertrophy,119,ya,0.0,flat,terkena penyakit
+49,laki-laki,asymptomatic,128,212,<120,Normal,96,ya,0.0,flat,terkena penyakit
+47,laki-laki,atypical angina,160,263,<120,Normal,174,tidak,0.0,upsloping,tidak terkena penyakit
+42,laki-laki,atypical angina,120,196,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+52,perempuan,atypical angina,140,225,<120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+46,laki-laki,typical angina,140,272,>120,Normal,175,tidak,2.0,flat,terkena penyakit
+50,laki-laki,asymptomatic,140,231,<120,ST-T Abnormal,140,ya,3.0,flat,terkena penyakit
+48,laki-laki,atypical angina,140,238,<120,Normal,118,tidak,0.0,upsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,135,222,<120,Normal,100,tidak,0.0,upsloping,tidak terkena penyakit
+58,laki-laki,non-anginal pain,140,179,<120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+29,laki-laki,atypical angina,120,243,<120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+40,laki-laki,non-anginal pain,140,235,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+53,laki-laki,atypical angina,140,320,<120,Normal,162,tidak,0.0,upsloping,tidak terkena penyakit
+49,laki-laki,non-anginal pain,140,187,<120,Normal,172,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,asymptomatic,140,266,<120,Normal,134,ya,2.0,flat,terkena penyakit
+43,laki-laki,asymptomatic,140,288,<120,Normal,135,ya,2.0,flat,terkena penyakit
+54,laki-laki,asymptomatic,140,216,<120,Normal,105,tidak,1.5,flat,terkena penyakit
+59,laki-laki,atypical angina,140,287,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+37,laki-laki,non-anginal pain,130,194,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+46,perempuan,asymptomatic,130,238,<120,Normal,96,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,asymptomatic,130,225,<120,Normal,120,ya,2.0,flat,terkena penyakit
+51,laki-laki,atypical angina,130,224,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,asymptomatic,140,385,<120,Normal,124,ya,2.0,flat,terkena penyakit
+46,laki-laki,asymptomatic,110,238,<120,ST-T Abnormal,140,ya,1.0,flat,tidak terkena penyakit
+54,perempuan,atypical angina,160,312,<120,Normal,130,tidak,0.0,upsloping,tidak terkena penyakit
+58,laki-laki,non-anginal pain,160,211,>120,ST-T Abnormal,96,tidak,0.0,flat,terkena penyakit
+58,laki-laki,atypical angina,130,251,<120,Normal,110,tidak,0.0,upsloping,tidak terkena penyakit
+41,laki-laki,asymptomatic,120,237,>120,Normal,138,ya,1.0,flat,terkena penyakit
+50,perempuan,asymptomatic,120,328,<120,Normal,110,ya,1.0,flat,tidak terkena penyakit
+53,laki-laki,asymptomatic,160,285,<120,ST-T Abnormal,120,ya,1.5,flat,terkena penyakit
+46,laki-laki,asymptomatic,160,280,<120,ST-T Abnormal,120,tidak,0.0,upsloping,tidak terkena penyakit
+50,laki-laki,atypical angina,160,209,<120,ST-T Abnormal,116,tidak,0.0,upsloping,tidak terkena penyakit
+48,laki-laki,atypical angina,130,245,<120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+45,laki-laki,non-anginal pain,135,192,<120,Normal,110,tidak,0.0,upsloping,tidak terkena penyakit
+41,perempuan,atypical angina,125,184,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+62,perempuan,typical angina,160,193,<120,Normal,116,tidak,0.0,upsloping,tidak terkena penyakit
+49,laki-laki,asymptomatic,120,297,<120,Normal,132,tidak,1.0,flat,tidak terkena penyakit
+42,laki-laki,atypical angina,150,268,<120,Normal,136,tidak,0.0,upsloping,tidak terkena penyakit
+53,laki-laki,asymptomatic,120,246,<120,Normal,116,ya,0.0,flat,terkena penyakit
+57,perempuan,typical angina,130,308,<120,Normal,98,tidak,1.0,flat,tidak terkena penyakit
+47,laki-laki,typical angina,110,249,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+46,laki-laki,non-anginal pain,120,230,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+42,laki-laki,non-anginal pain,160,147,<120,Normal,146,tidak,0.0,upsloping,tidak terkena penyakit
+31,perempuan,atypical angina,106,219,<120,ST-T Abnormal,150,tidak,0.0,upsloping,tidak terkena penyakit
+56,laki-laki,atypical angina,130,184,<120,Normal,100,tidak,0.0,upsloping,tidak terkena penyakit
+50,laki-laki,asymptomatic,150,215,<120,Normal,140,ya,0.0,upsloping,tidak terkena penyakit
+35,laki-laki,atypical angina,120,308,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+35,laki-laki,atypical angina,110,257,<120,Normal,140,tidak,0.0,flat,terkena penyakit
+28,laki-laki,atypical angina,130,132,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,asymptomatic,125,216,<120,Normal,140,tidak,0.0,flat,terkena penyakit
+48,laki-laki,asymptomatic,106,263,>120,Normal,110,tidak,0.0,flat,terkena penyakit
+50,perempuan,non-anginal pain,140,288,<120,Normal,140,ya,0.0,flat,terkena penyakit
+56,laki-laki,non-anginal pain,130,276,<120,Normal,128,ya,1.0,upsloping,tidak terkena penyakit
+56,perempuan,non-anginal pain,130,219,<120,ST-T Abnormal,164,tidak,0.0,upsloping,tidak terkena penyakit
+47,laki-laki,asymptomatic,150,226,<120,Normal,98,ya,1.5,flat,terkena penyakit
+30,perempuan,typical angina,160,237,<120,ST-T Abnormal,170,tidak,0.0,upsloping,tidak terkena penyakit
+39,laki-laki,asymptomatic,110,280,<120,Normal,150,tidak,0.0,flat,terkena penyakit
+54,laki-laki,non-anginal pain,120,217,<120,Normal,137,tidak,0.0,upsloping,tidak terkena penyakit
+55,laki-laki,atypical angina,140,196,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+29,laki-laki,atypical angina,140,263,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+46,laki-laki,asymptomatic,130,222,<120,Normal,112,tidak,0.0,flat,terkena penyakit
+51,perempuan,asymptomatic,160,303,<120,Normal,150,ya,1.0,flat,terkena penyakit
+48,perempuan,non-anginal pain,120,195,<120,Normal,125,tidak,0.0,upsloping,tidak terkena penyakit
+33,laki-laki,non-anginal pain,120,298,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+55,laki-laki,atypical angina,120,256,>120,Normal,137,tidak,0.0,upsloping,tidak terkena penyakit
+50,laki-laki,asymptomatic,145,264,<120,Normal,150,tidak,0.0,flat,terkena penyakit
+53,laki-laki,non-anginal pain,120,195,<120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+38,laki-laki,asymptomatic,106,117,<120,Normal,134,ya,2.5,flat,terkena penyakit
+41,laki-laki,atypical angina,120,295,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+37,perempuan,asymptomatic,130,173,<120,ST-T Abnormal,178,tidak,0.0,upsloping,tidak terkena penyakit
+37,laki-laki,asymptomatic,130,315,<120,Normal,158,tidak,0.0,upsloping,tidak terkena penyakit
+40,laki-laki,non-anginal pain,130,281,<120,Normal,167,tidak,0.0,upsloping,tidak terkena penyakit
+38,perempuan,atypical angina,120,275,<120,Normal,129,tidak,0.0,upsloping,tidak terkena penyakit
+41,laki-laki,asymptomatic,112,250,<120,Normal,142,tidak,0.0,upsloping,tidak terkena penyakit
+54,perempuan,atypical angina,140,309,<120,ST-T Abnormal,140,tidak,0.0,upsloping,tidak terkena penyakit
+39,laki-laki,atypical angina,120,200,<120,Normal,160,ya,1.0,flat,tidak terkena penyakit
+41,laki-laki,asymptomatic,120,336,<120,Normal,118,ya,3.0,flat,terkena penyakit
+55,laki-laki,typical angina,140,295,<120,Normal,136,tidak,0.0,flat,terkena penyakit
+48,laki-laki,asymptomatic,160,355,<120,Normal,99,ya,2.0,flat,terkena penyakit
+48,laki-laki,asymptomatic,160,193,<120,Normal,102,ya,3.0,flat,terkena penyakit
+55,laki-laki,atypical angina,145,326,<120,Normal,155,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,asymptomatic,160,198,<120,Normal,142,ya,2.0,flat,terkena penyakit
+55,laki-laki,atypical angina,160,292,>120,Normal,143,ya,2.0,flat,terkena penyakit
+43,perempuan,atypical angina,120,266,<120,Normal,118,tidak,0.0,upsloping,tidak terkena penyakit
+48,laki-laki,asymptomatic,160,268,<120,Normal,103,ya,1.0,flat,terkena penyakit
+54,laki-laki,typical angina,120,171,<120,Normal,137,tidak,2.0,upsloping,tidak terkena penyakit
+54,laki-laki,non-anginal pain,120,237,<120,Normal,150,ya,1.5,flat,terkena penyakit
+48,laki-laki,asymptomatic,122,275,>120,ST-T Abnormal,150,ya,2.0,downsloping,terkena penyakit
+45,laki-laki,asymptomatic,130,219,<120,ST-T Abnormal,130,ya,1.0,flat,terkena penyakit
+49,laki-laki,asymptomatic,130,341,<120,Normal,120,ya,1.0,flat,terkena penyakit
+44,laki-laki,asymptomatic,135,385,<120,Normal,135,tidak,0.0,flat,terkena penyakit
+48,laki-laki,asymptomatic,120,260,<120,Normal,115,tidak,2.0,flat,terkena penyakit
+61,laki-laki,asymptomatic,125,292,<120,ST-T Abnormal,115,ya,0.0,upsloping,tidak terkena penyakit
+62,laki-laki,atypical angina,140,271,<120,Normal,152,tidak,1.0,upsloping,tidak terkena penyakit
+55,laki-laki,asymptomatic,145,248,<120,Normal,96,ya,2.0,flat,terkena penyakit
+53,perempuan,non-anginal pain,120,274,<120,Normal,130,tidak,0.0,upsloping,tidak terkena penyakit
+55,perempuan,atypical angina,130,385,<120,Hipertrophy,150,tidak,0.0,upsloping,tidak terkena penyakit
+36,laki-laki,non-anginal pain,150,160,<120,Normal,172,tidak,0.0,upsloping,tidak terkena penyakit
+51,perempuan,non-anginal pain,150,200,<120,Normal,120,tidak,0.5,upsloping,tidak terkena penyakit
+55,perempuan,atypical angina,122,320,<120,Normal,155,tidak,0.0,upsloping,tidak terkena penyakit
+46,laki-laki,atypical angina,140,275,<120,Normal,165,ya,0.0,upsloping,tidak terkena penyakit
+54,perempuan,atypical angina,120,221,<120,Normal,138,tidak,1.0,upsloping,tidak terkena penyakit
+46,laki-laki,asymptomatic,120,231,<120,Normal,115,ya,0.0,flat,terkena penyakit
+59,laki-laki,asymptomatic,130,126,<120,Normal,125,tidak,0.0,flat,terkena penyakit
+47,laki-laki,non-anginal pain,140,193,<120,Normal,145,ya,1.0,flat,terkena penyakit
+54,laki-laki,atypical angina,160,305,<120,Normal,175,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,asymptomatic,130,298,<120,Normal,110,ya,1.0,flat,terkena penyakit
+34,laki-laki,atypical angina,106,220,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,asymptomatic,130,242,<120,Normal,96,ya,1.0,flat,terkena penyakit
+47,perempuan,non-anginal pain,130,235,<120,Normal,145,tidak,2.0,flat,tidak terkena penyakit
+45,laki-laki,asymptomatic,120,225,<120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+32,perempuan,atypical angina,106,198,<120,Normal,165,tidak,0.0,upsloping,tidak terkena penyakit
+55,laki-laki,asymptomatic,140,201,<120,Normal,130,ya,3.0,flat,terkena penyakit
+55,laki-laki,non-anginal pain,120,220,<120,Hipertrophy,134,tidak,0.0,upsloping,tidak terkena penyakit
+45,perempuan,atypical angina,160,295,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,non-anginal pain,160,213,<120,Normal,100,tidak,0.0,upsloping,tidak terkena penyakit
+51,laki-laki,non-anginal pain,135,160,<120,Normal,150,tidak,2.0,flat,terkena penyakit
+52,laki-laki,asymptomatic,160,223,<120,Normal,126,ya,1.5,flat,terkena penyakit
+57,perempuan,asymptomatic,160,347,<120,ST-T Abnormal,126,ya,0.8,flat,tidak terkena penyakit
+54,perempuan,atypical angina,130,253,<120,ST-T Abnormal,155,tidak,0.0,upsloping,tidak terkena penyakit
+60,laki-laki,non-anginal pain,120,246,<120,Hipertrophy,135,tidak,0.0,upsloping,tidak terkena penyakit
+49,laki-laki,asymptomatic,150,222,<120,Normal,122,tidak,2.0,flat,terkena penyakit
+51,perempuan,non-anginal pain,130,220,<120,Normal,160,ya,2.0,upsloping,tidak terkena penyakit
+55,perempuan,atypical angina,110,344,<120,ST-T Abnormal,160,tidak,0.0,upsloping,tidak terkena penyakit
+42,laki-laki,asymptomatic,140,358,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+51,perempuan,non-anginal pain,110,190,<120,Normal,120,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,asymptomatic,140,169,<120,Normal,140,tidak,0.0,upsloping,tidak terkena penyakit
+53,laki-laki,atypical angina,120,181,<120,Normal,132,tidak,0.0,upsloping,tidak terkena penyakit
+48,perempuan,atypical angina,133,308,<120,ST-T Abnormal,156,tidak,2.0,upsloping,tidak terkena penyakit
+36,laki-laki,atypical angina,120,166,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+48,laki-laki,non-anginal pain,110,211,<120,Normal,138,tidak,0.0,upsloping,tidak terkena penyakit
+47,perempuan,atypical angina,140,257,<120,Normal,135,tidak,1.0,upsloping,tidak terkena penyakit
+53,laki-laki,asymptomatic,130,182,<120,Normal,148,tidak,0.0,upsloping,tidak terkena penyakit
+65,laki-laki,asymptomatic,115,0,<120,Normal,96,ya,0.0,flat,terkena penyakit
+32,laki-laki,typical angina,106,0,>120,Normal,127,tidak,0.7,upsloping,terkena penyakit
+61,laki-laki,asymptomatic,106,0,>120,Normal,110,ya,1.5,upsloping,terkena penyakit
+50,laki-laki,asymptomatic,145,0,>120,Normal,139,ya,0.7,flat,terkena penyakit
+57,laki-laki,asymptomatic,110,0,>120,ST-T Abnormal,131,ya,1.4,upsloping,terkena penyakit
+51,laki-laki,asymptomatic,110,0,>120,Normal,96,tidak,0.0,flat,terkena penyakit
+47,laki-laki,asymptomatic,110,0,>120,ST-T Abnormal,149,tidak,2.1,upsloping,terkena penyakit
+60,laki-laki,asymptomatic,160,0,>120,Normal,149,tidak,0.4,flat,terkena penyakit
+55,laki-laki,atypical angina,140,0,<120,ST-T Abnormal,150,tidak,0.2,upsloping,tidak terkena penyakit
+53,laki-laki,asymptomatic,125,0,>120,Normal,120,tidak,1.5,upsloping,terkena penyakit
+62,perempuan,asymptomatic,120,0,>120,ST-T Abnormal,123,ya,1.7,downsloping,terkena penyakit
+51,laki-laki,asymptomatic,106,0,>120,Normal,126,tidak,2.2,flat,terkena penyakit
+51,perempuan,asymptomatic,120,0,>120,Normal,127,ya,1.5,upsloping,terkena penyakit
+55,laki-laki,asymptomatic,115,0,>120,Normal,155,tidak,0.1,flat,terkena penyakit
+53,laki-laki,atypical angina,130,0,<120,ST-T Abnormal,120,tidak,0.7,downsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,115,0,>120,Normal,138,tidak,0.5,upsloping,terkena penyakit
+57,laki-laki,asymptomatic,106,0,>120,Normal,178,tidak,0.7,downsloping,terkena penyakit
+65,laki-laki,asymptomatic,155,0,<120,Normal,154,tidak,1.0,upsloping,tidak terkena penyakit
+60,laki-laki,asymptomatic,125,0,>120,Normal,110,tidak,0.1,upsloping,terkena penyakit
+41,laki-laki,asymptomatic,125,0,>120,Normal,176,tidak,1.6,upsloping,terkena penyakit
+34,laki-laki,asymptomatic,115,0,>120,Normal,154,tidak,0.2,upsloping,terkena penyakit
+53,laki-laki,asymptomatic,106,0,<120,Normal,141,ya,2.0,downsloping,tidak terkena penyakit
+74,laki-laki,atypical angina,145,0,>120,ST-T Abnormal,123,tidak,1.3,upsloping,terkena penyakit
+57,laki-laki,non-anginal pain,106,0,>120,Normal,148,tidak,0.3,flat,terkena penyakit
+56,laki-laki,asymptomatic,140,0,>120,Normal,121,ya,1.8,upsloping,terkena penyakit
+61,laki-laki,asymptomatic,130,0,>120,Normal,96,tidak,2.5,flat,terkena penyakit
+68,laki-laki,asymptomatic,145,0,>120,Normal,136,tidak,1.8,upsloping,terkena penyakit
+59,laki-laki,non-anginal pain,125,0,>120,Normal,175,tidak,2.6,flat,terkena penyakit
+63,laki-laki,asymptomatic,106,0,>120,Normal,109,tidak,0.0,flat,terkena penyakit
+38,perempuan,asymptomatic,106,0,>120,Normal,166,tidak,2.8,upsloping,terkena penyakit
+62,laki-laki,asymptomatic,115,0,>120,Normal,128,ya,2.5,downsloping,terkena penyakit
+46,laki-laki,asymptomatic,106,0,>120,ST-T Abnormal,133,tidak,0.0,flat,terkena penyakit
+42,laki-laki,asymptomatic,106,0,>120,Normal,128,ya,0.0,downsloping,terkena penyakit
+45,laki-laki,non-anginal pain,110,0,<120,Normal,138,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,asymptomatic,125,0,>120,Normal,119,ya,0.9,upsloping,terkena penyakit
+52,laki-laki,asymptomatic,106,0,>120,Normal,96,ya,0.8,flat,terkena penyakit
+60,laki-laki,asymptomatic,130,0,>120,ST-T Abnormal,130,ya,1.1,downsloping,terkena penyakit
+60,laki-laki,non-anginal pain,115,0,>120,Normal,143,tidak,2.4,upsloping,terkena penyakit
+56,laki-laki,asymptomatic,115,0,>120,ST-T Abnormal,96,tidak,0.0,upsloping,terkena penyakit
+38,laki-laki,non-anginal pain,106,0,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+40,laki-laki,asymptomatic,106,0,>120,ST-T Abnormal,144,tidak,0.0,upsloping,terkena penyakit
+51,laki-laki,asymptomatic,130,0,>120,Normal,170,tidak,0.0,upsloping,terkena penyakit
+62,laki-laki,typical angina,120,0,>120,Hipertrophy,134,tidak,0.0,flat,terkena penyakit
+72,laki-laki,non-anginal pain,160,0,<120,Hipertrophy,114,tidak,1.6,flat,tidak terkena penyakit
+63,laki-laki,asymptomatic,150,0,>120,ST-T Abnormal,154,tidak,3.0,upsloping,terkena penyakit
+63,laki-laki,asymptomatic,140,0,>120,Hipertrophy,149,tidak,2.0,upsloping,terkena penyakit
+64,perempuan,asymptomatic,106,0,>120,Normal,145,tidak,1.1,downsloping,terkena penyakit
+43,laki-laki,asymptomatic,106,0,>120,Normal,122,tidak,1.5,downsloping,terkena penyakit
+64,laki-laki,asymptomatic,110,0,>120,Normal,114,ya,1.3,downsloping,terkena penyakit
+61,laki-laki,asymptomatic,110,0,>120,Normal,113,tidak,1.4,flat,terkena penyakit
+52,laki-laki,asymptomatic,130,0,>120,Normal,120,tidak,0.0,flat,terkena penyakit
+51,laki-laki,asymptomatic,120,0,>120,Normal,104,tidak,0.0,flat,terkena penyakit
+69,laki-laki,asymptomatic,135,0,<120,Normal,130,tidak,0.0,flat,terkena penyakit
+59,laki-laki,asymptomatic,120,0,<120,Normal,115,tidak,0.0,flat,terkena penyakit
+48,laki-laki,asymptomatic,115,0,>120,Normal,128,tidak,0.0,flat,terkena penyakit
+69,laki-laki,asymptomatic,137,0,<120,ST-T Abnormal,104,ya,1.6,flat,terkena penyakit
+36,laki-laki,asymptomatic,110,0,>120,Normal,125,ya,1.0,flat,terkena penyakit
+53,laki-laki,asymptomatic,120,0,>120,Normal,120,tidak,0.0,flat,terkena penyakit
+43,laki-laki,asymptomatic,140,0,<120,ST-T Abnormal,140,ya,0.5,upsloping,terkena penyakit
+56,laki-laki,asymptomatic,120,0,<120,ST-T Abnormal,100,ya,0.0,downsloping,terkena penyakit
+58,laki-laki,asymptomatic,130,0,<120,ST-T Abnormal,100,ya,1.0,flat,terkena penyakit
+55,laki-laki,asymptomatic,120,0,<120,ST-T Abnormal,96,tidak,0.3,upsloping,terkena penyakit
+67,laki-laki,typical angina,145,0,<120,Hipertrophy,125,tidak,0.0,flat,terkena penyakit
+46,laki-laki,asymptomatic,115,0,<120,Normal,113,ya,1.5,flat,terkena penyakit
+53,laki-laki,atypical angina,120,0,<120,Normal,96,tidak,0.0,flat,terkena penyakit
+38,laki-laki,non-anginal pain,115,0,<120,Normal,128,ya,0.0,flat,terkena penyakit
+53,laki-laki,non-anginal pain,106,0,<120,Normal,115,tidak,0.0,flat,terkena penyakit
+62,laki-laki,non-anginal pain,160,0,<120,Normal,96,ya,0.0,flat,terkena penyakit
+47,laki-laki,asymptomatic,160,0,<120,Normal,124,ya,0.0,flat,terkena penyakit
+56,laki-laki,non-anginal pain,155,0,<120,ST-T Abnormal,99,tidak,0.0,flat,terkena penyakit
+56,laki-laki,asymptomatic,120,0,<120,ST-T Abnormal,148,tidak,0.0,flat,terkena penyakit
+56,laki-laki,non-anginal pain,120,0,<120,Normal,97,tidak,0.0,flat,tidak terkena penyakit
+64,perempuan,asymptomatic,160,0,<120,Normal,140,ya,1.0,flat,terkena penyakit
+61,laki-laki,asymptomatic,150,0,<120,Normal,117,ya,2.0,flat,terkena penyakit
+68,laki-laki,asymptomatic,135,0,<120,ST-T Abnormal,120,ya,0.0,upsloping,terkena penyakit
+57,laki-laki,asymptomatic,140,0,<120,Normal,120,ya,2.0,flat,terkena penyakit
+63,laki-laki,asymptomatic,150,0,<120,Normal,96,ya,2.0,flat,terkena penyakit
+60,laki-laki,asymptomatic,135,0,<120,Normal,96,ya,0.5,upsloping,terkena penyakit
+66,laki-laki,asymptomatic,150,0,<120,Normal,108,ya,2.0,flat,terkena penyakit
+63,laki-laki,asymptomatic,160,0,<120,Normal,98,ya,0.0,upsloping,terkena penyakit
+59,laki-laki,asymptomatic,135,0,<120,Normal,115,ya,1.0,flat,terkena penyakit
+61,laki-laki,asymptomatic,125,0,<120,Normal,105,ya,0.0,downsloping,terkena penyakit
+73,perempuan,non-anginal pain,160,0,<120,ST-T Abnormal,121,tidak,0.0,upsloping,terkena penyakit
+47,laki-laki,non-anginal pain,155,0,<120,Normal,118,ya,1.0,flat,terkena penyakit
+65,laki-laki,asymptomatic,160,0,>120,ST-T Abnormal,122,tidak,1.2,flat,terkena penyakit
+70,laki-laki,asymptomatic,140,0,>120,Normal,157,ya,2.0,flat,terkena penyakit
+50,laki-laki,asymptomatic,120,0,<120,ST-T Abnormal,156,ya,0.0,upsloping,terkena penyakit
+60,laki-laki,asymptomatic,160,0,<120,ST-T Abnormal,99,ya,0.5,flat,terkena penyakit
+50,laki-laki,asymptomatic,115,0,<120,Normal,120,ya,0.5,flat,terkena penyakit
+43,laki-laki,asymptomatic,115,0,<120,Normal,145,ya,2.0,flat,terkena penyakit
+38,perempuan,asymptomatic,110,0,<120,Normal,156,tidak,0.0,flat,terkena penyakit
+54,laki-laki,asymptomatic,120,0,<120,Normal,155,tidak,0.0,flat,terkena penyakit
+61,laki-laki,asymptomatic,150,0,<120,Normal,105,ya,0.0,flat,terkena penyakit
+42,laki-laki,asymptomatic,145,0,<120,Normal,99,ya,0.0,flat,terkena penyakit
+53,laki-laki,asymptomatic,130,0,<120,Hipertrophy,135,ya,1.0,flat,terkena penyakit
+55,laki-laki,asymptomatic,140,0,<120,Normal,96,tidak,0.0,flat,terkena penyakit
+61,laki-laki,asymptomatic,160,0,>120,ST-T Abnormal,145,tidak,1.0,flat,terkena penyakit
+51,laki-laki,asymptomatic,140,0,<120,Normal,96,tidak,0.0,flat,terkena penyakit
+70,laki-laki,asymptomatic,115,0,<120,ST-T Abnormal,96,ya,0.0,flat,terkena penyakit
+61,laki-laki,asymptomatic,130,0,<120,Hipertrophy,115,tidak,0.0,flat,terkena penyakit
+38,laki-laki,asymptomatic,150,0,>120,Normal,120,ya,0.7,flat,terkena penyakit
+57,laki-laki,asymptomatic,160,0,>120,Normal,98,ya,2.0,flat,terkena penyakit
+38,laki-laki,asymptomatic,135,0,>120,Normal,150,tidak,0.0,flat,terkena penyakit
+62,perempuan,typical angina,140,0,>120,Normal,143,tidak,0.0,flat,terkena penyakit
+58,laki-laki,asymptomatic,160,0,>120,ST-T Abnormal,105,ya,0.0,flat,terkena penyakit
+52,laki-laki,asymptomatic,160,0,>120,Normal,122,ya,1.0,upsloping,terkena penyakit
+61,laki-laki,non-anginal pain,160,0,>120,ST-T Abnormal,96,tidak,0.0,flat,terkena penyakit
+50,perempuan,asymptomatic,160,0,>120,Normal,110,tidak,0.0,flat,terkena penyakit
+51,laki-laki,asymptomatic,130,0,>120,ST-T Abnormal,163,tidak,0.0,flat,terkena penyakit
+65,laki-laki,asymptomatic,145,0,>120,ST-T Abnormal,96,tidak,0.7,flat,terkena penyakit
+52,laki-laki,asymptomatic,135,0,>120,Normal,128,ya,2.0,flat,terkena penyakit
+47,laki-laki,non-anginal pain,110,0,>120,Normal,120,ya,0.0,flat,terkena penyakit
+35,laki-laki,asymptomatic,120,0,>120,Normal,130,ya,1.2,flat,terkena penyakit
+57,laki-laki,asymptomatic,140,0,>120,Normal,100,ya,0.0,flat,terkena penyakit
+62,laki-laki,asymptomatic,115,0,>120,Normal,96,ya,0.0,flat,terkena penyakit
+59,laki-laki,asymptomatic,110,0,>120,Normal,96,tidak,0.0,flat,terkena penyakit
+53,laki-laki,non-anginal pain,160,0,>120,Hipertrophy,122,ya,0.0,flat,terkena penyakit
+62,laki-laki,asymptomatic,150,0,>120,ST-T Abnormal,96,tidak,2.0,flat,terkena penyakit
+54,laki-laki,asymptomatic,160,0,>120,Normal,150,tidak,1.5,flat,terkena penyakit
+56,laki-laki,asymptomatic,125,0,>120,Normal,103,ya,1.0,flat,terkena penyakit
+56,laki-laki,non-anginal pain,125,0,>120,Normal,98,tidak,0.0,flat,terkena penyakit
+54,laki-laki,asymptomatic,130,0,>120,Normal,110,ya,3.0,flat,terkena penyakit
+66,perempuan,asymptomatic,155,0,>120,Normal,96,tidak,0.0,flat,terkena penyakit
+63,laki-laki,asymptomatic,140,260,<120,ST-T Abnormal,112,ya,3.0,flat,terkena penyakit
+44,laki-laki,asymptomatic,130,209,<120,ST-T Abnormal,127,tidak,0.0,upsloping,tidak terkena penyakit
+60,laki-laki,asymptomatic,132,218,<120,ST-T Abnormal,140,ya,1.5,downsloping,terkena penyakit
+55,laki-laki,asymptomatic,142,228,<120,ST-T Abnormal,149,ya,2.5,upsloping,terkena penyakit
+66,laki-laki,non-anginal pain,110,213,>120,Hipertrophy,99,ya,1.3,flat,tidak terkena penyakit
+66,laki-laki,non-anginal pain,120,0,<120,ST-T Abnormal,120,tidak,0.0,upsloping,tidak terkena penyakit
+65,laki-laki,asymptomatic,150,236,>120,ST-T Abnormal,105,ya,0.0,flat,terkena penyakit
+60,laki-laki,non-anginal pain,160,0,<120,ST-T Abnormal,140,ya,1.5,flat,tidak terkena penyakit
+60,laki-laki,non-anginal pain,120,0,>120,Normal,141,ya,2.0,upsloping,terkena penyakit
+60,laki-laki,atypical angina,160,267,>120,ST-T Abnormal,157,tidak,0.5,flat,terkena penyakit
+56,laki-laki,atypical angina,126,166,<120,ST-T Abnormal,140,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,asymptomatic,140,0,<120,ST-T Abnormal,117,ya,1.0,flat,terkena penyakit
+62,laki-laki,asymptomatic,110,0,<120,Normal,120,ya,0.5,flat,terkena penyakit
+63,laki-laki,non-anginal pain,133,0,<120,Hipertrophy,120,ya,1.0,flat,terkena penyakit
+57,laki-laki,asymptomatic,128,0,>120,ST-T Abnormal,148,ya,1.0,flat,terkena penyakit
+62,laki-laki,asymptomatic,120,220,<120,ST-T Abnormal,96,tidak,0.0,upsloping,tidak terkena penyakit
+63,laki-laki,asymptomatic,160,177,<120,Normal,96,ya,2.5,downsloping,terkena penyakit
+46,laki-laki,asymptomatic,110,236,<120,Normal,125,ya,2.0,flat,terkena penyakit
+63,laki-laki,asymptomatic,126,0,<120,ST-T Abnormal,120,tidak,1.5,downsloping,tidak terkena penyakit
+60,laki-laki,asymptomatic,152,0,<120,ST-T Abnormal,118,ya,0.0,upsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,116,0,<120,Normal,124,tidak,1.0,upsloping,terkena penyakit
+64,laki-laki,asymptomatic,120,0,>120,ST-T Abnormal,106,tidak,2.0,flat,terkena penyakit
+63,laki-laki,non-anginal pain,130,0,<120,ST-T Abnormal,111,ya,0.0,flat,terkena penyakit
+74,laki-laki,non-anginal pain,138,0,<120,Normal,116,tidak,0.2,upsloping,tidak terkena penyakit
+52,laki-laki,non-anginal pain,128,0,<120,ST-T Abnormal,178,tidak,3.0,upsloping,terkena penyakit
+69,laki-laki,asymptomatic,130,0,>120,ST-T Abnormal,129,tidak,1.0,flat,terkena penyakit
+51,laki-laki,asymptomatic,128,0,>120,ST-T Abnormal,125,ya,1.2,flat,terkena penyakit
+60,laki-laki,asymptomatic,130,186,>120,ST-T Abnormal,140,ya,0.5,flat,terkena penyakit
+56,laki-laki,asymptomatic,120,100,<120,Normal,120,ya,1.5,flat,terkena penyakit
+55,laki-laki,non-anginal pain,136,228,<120,ST-T Abnormal,124,ya,1.6,flat,terkena penyakit
+54,laki-laki,asymptomatic,130,0,<120,ST-T Abnormal,117,ya,1.4,flat,terkena penyakit
+77,laki-laki,asymptomatic,124,171,<120,ST-T Abnormal,110,ya,2.0,upsloping,terkena penyakit
+63,laki-laki,asymptomatic,160,230,>120,Normal,105,ya,1.0,flat,terkena penyakit
+55,laki-laki,non-anginal pain,106,0,<120,Normal,155,tidak,1.5,flat,terkena penyakit
+52,laki-laki,non-anginal pain,122,0,<120,Normal,110,ya,2.0,downsloping,terkena penyakit
+64,laki-laki,asymptomatic,144,0,<120,ST-T Abnormal,122,ya,1.0,flat,terkena penyakit
+60,laki-laki,asymptomatic,140,281,<120,ST-T Abnormal,118,ya,1.5,flat,terkena penyakit
+60,laki-laki,asymptomatic,120,0,<120,Normal,133,ya,2.0,upsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,136,203,>120,Normal,123,ya,1.2,flat,terkena penyakit
+59,laki-laki,asymptomatic,154,0,<120,ST-T Abnormal,131,ya,1.5,upsloping,tidak terkena penyakit
+61,laki-laki,non-anginal pain,120,0,<120,Normal,96,ya,0.0,flat,terkena penyakit
+40,laki-laki,asymptomatic,125,0,>120,Normal,165,tidak,0.0,flat,terkena penyakit
+61,laki-laki,asymptomatic,134,0,>120,ST-T Abnormal,96,tidak,1.5,flat,terkena penyakit
+41,laki-laki,asymptomatic,106,0,<120,ST-T Abnormal,111,tidak,0.0,upsloping,tidak terkena penyakit
+57,laki-laki,asymptomatic,139,277,>120,ST-T Abnormal,118,ya,1.9,flat,terkena penyakit
+63,laki-laki,asymptomatic,136,0,<120,Normal,96,ya,0.0,flat,terkena penyakit
+59,laki-laki,asymptomatic,122,233,<120,Normal,117,ya,1.3,downsloping,terkena penyakit
+51,laki-laki,asymptomatic,128,0,<120,Normal,107,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,non-anginal pain,131,0,<120,Normal,128,ya,2.0,downsloping,terkena penyakit
+42,laki-laki,non-anginal pain,134,240,<120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+55,laki-laki,non-anginal pain,120,0,<120,ST-T Abnormal,125,ya,2.5,flat,terkena penyakit
+63,perempuan,atypical angina,132,0,<120,Normal,130,tidak,0.1,upsloping,tidak terkena penyakit
+62,laki-laki,asymptomatic,152,153,<120,ST-T Abnormal,97,ya,1.6,upsloping,terkena penyakit
+56,laki-laki,atypical angina,124,224,>120,Normal,161,tidak,2.0,flat,tidak terkena penyakit
+53,laki-laki,asymptomatic,126,0,<120,Normal,106,tidak,0.0,flat,terkena penyakit
+68,laki-laki,asymptomatic,138,0,<120,Normal,130,ya,3.0,flat,terkena penyakit
+53,laki-laki,asymptomatic,154,0,>120,ST-T Abnormal,140,ya,1.5,flat,terkena penyakit
+60,laki-laki,non-anginal pain,141,316,>120,ST-T Abnormal,122,ya,1.7,flat,terkena penyakit
+62,laki-laki,atypical angina,131,0,<120,Normal,130,tidak,0.1,upsloping,tidak terkena penyakit
+59,laki-laki,asymptomatic,160,0,>120,Hipertrophy,120,ya,0.0,flat,terkena penyakit
+51,laki-laki,asymptomatic,132,218,>120,Hipertrophy,139,tidak,0.1,upsloping,tidak terkena penyakit
+61,laki-laki,asymptomatic,110,0,>120,Normal,108,ya,2.0,downsloping,terkena penyakit
+57,laki-laki,asymptomatic,130,311,>120,ST-T Abnormal,148,ya,2.0,flat,terkena penyakit
+56,laki-laki,non-anginal pain,160,0,<120,Hipertrophy,123,ya,2.5,flat,terkena penyakit
+58,laki-laki,atypical angina,126,0,>120,Normal,110,ya,2.0,flat,terkena penyakit
+69,laki-laki,non-anginal pain,140,0,>120,ST-T Abnormal,118,tidak,2.5,downsloping,terkena penyakit
+67,laki-laki,typical angina,142,270,>120,Normal,125,tidak,2.5,upsloping,terkena penyakit
+58,laki-laki,asymptomatic,120,0,<120,Hipertrophy,106,ya,1.5,downsloping,terkena penyakit
+65,laki-laki,asymptomatic,134,0,<120,Normal,112,ya,1.1,flat,terkena penyakit
+63,laki-laki,atypical angina,139,217,>120,ST-T Abnormal,128,ya,1.2,flat,terkena penyakit
+55,laki-laki,atypical angina,110,214,>120,ST-T Abnormal,178,tidak,0.4,upsloping,tidak terkena penyakit
+57,laki-laki,asymptomatic,140,214,<120,ST-T Abnormal,144,ya,2.0,flat,terkena penyakit
+65,laki-laki,typical angina,140,252,<120,Normal,135,tidak,0.3,upsloping,tidak terkena penyakit
+54,laki-laki,asymptomatic,136,220,<120,Normal,140,ya,3.0,flat,terkena penyakit
+72,laki-laki,non-anginal pain,120,214,<120,Normal,102,ya,1.0,flat,terkena penyakit
+75,laki-laki,asymptomatic,160,203,>120,ST-T Abnormal,108,tidak,0.0,flat,terkena penyakit
+49,laki-laki,typical angina,130,0,<120,ST-T Abnormal,145,tidak,3.0,flat,terkena penyakit
+51,laki-laki,non-anginal pain,137,339,<120,Normal,127,ya,1.7,flat,terkena penyakit
+60,laki-laki,asymptomatic,142,216,<120,Normal,110,ya,2.5,flat,terkena penyakit
+64,perempuan,asymptomatic,142,276,<120,Normal,140,ya,1.0,flat,terkena penyakit
+58,laki-laki,asymptomatic,132,385,>120,Normal,96,tidak,1.0,downsloping,tidak terkena penyakit
+61,laki-laki,asymptomatic,146,241,<120,Normal,148,ya,3.0,downsloping,terkena penyakit
+67,laki-laki,asymptomatic,160,384,>120,ST-T Abnormal,130,ya,0.0,flat,terkena penyakit
+62,laki-laki,asymptomatic,135,297,<120,Normal,130,ya,1.0,flat,terkena penyakit
+65,laki-laki,asymptomatic,136,248,<120,Normal,140,ya,3.0,downsloping,terkena penyakit
+63,laki-laki,asymptomatic,130,308,<120,Normal,138,ya,2.0,flat,terkena penyakit
+69,laki-laki,asymptomatic,140,208,<120,ST-T Abnormal,140,ya,2.0,flat,terkena penyakit
+51,laki-laki,asymptomatic,132,227,>120,ST-T Abnormal,138,tidak,0.2,upsloping,tidak terkena penyakit
+62,laki-laki,asymptomatic,158,210,>120,Normal,112,ya,3.0,downsloping,terkena penyakit
+55,laki-laki,non-anginal pain,136,245,>120,ST-T Abnormal,131,ya,1.2,flat,terkena penyakit
+75,laki-laki,asymptomatic,136,225,<120,Normal,112,ya,3.0,flat,terkena penyakit
+40,laki-laki,non-anginal pain,106,240,<120,Normal,96,ya,0.0,upsloping,tidak terkena penyakit
+67,laki-laki,asymptomatic,120,0,>120,Normal,150,tidak,1.5,downsloping,terkena penyakit
+58,laki-laki,asymptomatic,110,198,<120,Normal,110,tidak,0.0,flat,terkena penyakit
+60,laki-laki,asymptomatic,136,195,<120,Normal,126,tidak,0.3,upsloping,tidak terkena penyakit
+63,laki-laki,asymptomatic,160,267,>120,ST-T Abnormal,96,ya,2.0,flat,terkena penyakit
+35,laki-laki,non-anginal pain,123,161,<120,ST-T Abnormal,153,tidak,0.0,upsloping,tidak terkena penyakit
+62,laki-laki,typical angina,112,258,<120,ST-T Abnormal,150,ya,1.3,flat,terkena penyakit
+43,laki-laki,asymptomatic,122,0,<120,Normal,120,tidak,0.5,upsloping,terkena penyakit
+63,laki-laki,non-anginal pain,130,0,>120,ST-T Abnormal,160,tidak,3.0,flat,tidak terkena penyakit
+68,laki-laki,non-anginal pain,150,195,>120,Normal,132,tidak,0.0,downsloping,terkena penyakit
+65,laki-laki,asymptomatic,150,235,<120,Normal,120,ya,1.5,flat,terkena penyakit
+48,laki-laki,non-anginal pain,106,0,>120,ST-T Abnormal,110,ya,1.0,downsloping,terkena penyakit
+63,laki-laki,asymptomatic,106,305,<120,ST-T Abnormal,121,ya,1.0,upsloping,terkena penyakit
+64,laki-laki,asymptomatic,130,223,<120,ST-T Abnormal,128,tidak,0.5,flat,tidak terkena penyakit
+61,laki-laki,asymptomatic,120,282,<120,ST-T Abnormal,135,ya,3.0,downsloping,terkena penyakit
+50,laki-laki,asymptomatic,144,349,<120,Hipertrophy,120,ya,1.0,upsloping,terkena penyakit
+59,laki-laki,asymptomatic,124,160,<120,Normal,117,ya,1.0,flat,terkena penyakit
+55,laki-laki,asymptomatic,150,160,<120,ST-T Abnormal,150,tidak,0.0,upsloping,tidak terkena penyakit
+45,laki-laki,non-anginal pain,130,236,<120,Normal,144,tidak,0.1,upsloping,tidak terkena penyakit
+65,laki-laki,asymptomatic,144,312,<120,Hipertrophy,113,ya,1.7,flat,terkena penyakit
+61,laki-laki,atypical angina,139,283,<120,Normal,135,tidak,0.3,upsloping,tidak terkena penyakit
+49,laki-laki,non-anginal pain,131,142,<120,Normal,127,ya,1.5,flat,terkena penyakit
+72,laki-laki,asymptomatic,143,211,<120,Normal,109,ya,1.4,flat,terkena penyakit
+50,laki-laki,asymptomatic,133,218,<120,Normal,128,ya,1.1,flat,terkena penyakit
+64,laki-laki,asymptomatic,143,306,>120,ST-T Abnormal,115,ya,1.8,flat,terkena penyakit
+55,laki-laki,asymptomatic,116,186,>120,ST-T Abnormal,102,tidak,0.0,flat,terkena penyakit
+63,laki-laki,asymptomatic,110,252,<120,ST-T Abnormal,140,ya,2.0,flat,terkena penyakit
+59,laki-laki,asymptomatic,125,222,<120,Normal,135,ya,2.5,downsloping,terkena penyakit
+56,laki-laki,asymptomatic,130,0,<120,Hipertrophy,122,ya,1.0,flat,terkena penyakit
+62,laki-laki,non-anginal pain,133,0,>120,ST-T Abnormal,119,ya,1.2,flat,terkena penyakit
+74,laki-laki,asymptomatic,150,258,>120,ST-T Abnormal,130,ya,3.0,downsloping,terkena penyakit
+54,laki-laki,asymptomatic,130,202,>120,Normal,112,ya,2.0,flat,terkena penyakit
+57,laki-laki,asymptomatic,110,197,<120,Hipertrophy,100,tidak,0.0,upsloping,tidak terkena penyakit
+62,laki-laki,non-anginal pain,138,204,<120,ST-T Abnormal,122,ya,1.2,flat,terkena penyakit
+76,laki-laki,non-anginal pain,106,113,<120,Hipertrophy,120,tidak,3.0,downsloping,terkena penyakit
+54,perempuan,asymptomatic,138,274,<120,Normal,105,ya,1.5,flat,terkena penyakit
+70,laki-laki,asymptomatic,160,192,<120,ST-T Abnormal,129,ya,3.0,downsloping,terkena penyakit
+61,perempuan,atypical angina,140,298,>120,Normal,120,ya,0.0,upsloping,tidak terkena penyakit
+48,laki-laki,asymptomatic,132,272,<120,ST-T Abnormal,139,tidak,0.2,upsloping,tidak terkena penyakit
+48,laki-laki,non-anginal pain,132,220,>120,ST-T Abnormal,162,tidak,0.0,flat,terkena penyakit
+61,laki-laki,typical angina,142,200,>120,ST-T Abnormal,100,tidak,1.5,downsloping,terkena penyakit
+66,laki-laki,asymptomatic,112,261,<120,Normal,140,tidak,1.5,upsloping,terkena penyakit
+68,laki-laki,typical angina,139,181,>120,ST-T Abnormal,135,tidak,0.2,upsloping,tidak terkena penyakit
+55,laki-laki,asymptomatic,160,260,<120,Normal,96,tidak,2.0,flat,terkena penyakit
+62,laki-laki,non-anginal pain,120,220,<120,Hipertrophy,96,tidak,0.0,upsloping,tidak terkena penyakit
+71,laki-laki,non-anginal pain,144,221,<120,Normal,108,ya,1.8,flat,terkena penyakit
+74,laki-laki,typical angina,145,216,>120,Normal,116,ya,1.8,flat,terkena penyakit
+53,laki-laki,non-anginal pain,155,175,>120,ST-T Abnormal,160,tidak,0.3,upsloping,tidak terkena penyakit
+58,laki-laki,non-anginal pain,150,219,<120,ST-T Abnormal,118,ya,0.0,flat,terkena penyakit
+75,laki-laki,asymptomatic,160,310,>120,Normal,112,ya,2.0,downsloping,tidak terkena penyakit
+56,laki-laki,non-anginal pain,137,208,>120,ST-T Abnormal,122,ya,1.8,flat,terkena penyakit
+58,laki-laki,non-anginal pain,137,232,<120,ST-T Abnormal,124,ya,1.4,flat,terkena penyakit
+64,laki-laki,asymptomatic,134,273,<120,Normal,102,ya,3.0,downsloping,terkena penyakit
+54,laki-laki,non-anginal pain,133,203,<120,ST-T Abnormal,137,tidak,0.2,upsloping,tidak terkena penyakit
+54,laki-laki,atypical angina,132,182,<120,ST-T Abnormal,141,tidak,0.1,upsloping,tidak terkena penyakit
+59,laki-laki,asymptomatic,140,274,<120,Normal,154,ya,2.0,flat,tidak terkena penyakit
+55,laki-laki,asymptomatic,135,204,>120,ST-T Abnormal,126,ya,1.1,flat,terkena penyakit
+57,laki-laki,asymptomatic,144,270,>120,ST-T Abnormal,160,ya,2.0,flat,terkena penyakit
+61,laki-laki,asymptomatic,141,292,<120,ST-T Abnormal,115,ya,1.7,flat,terkena penyakit
+41,laki-laki,asymptomatic,150,171,<120,Normal,128,ya,1.5,flat,tidak terkena penyakit
+71,laki-laki,asymptomatic,130,221,<120,ST-T Abnormal,115,ya,0.0,flat,terkena penyakit
+38,laki-laki,asymptomatic,110,289,<120,Normal,105,ya,1.5,downsloping,terkena penyakit
+55,laki-laki,asymptomatic,158,217,<120,Normal,110,ya,2.5,flat,terkena penyakit
+56,laki-laki,asymptomatic,128,223,<120,ST-T Abnormal,119,ya,2.0,downsloping,terkena penyakit
+69,laki-laki,asymptomatic,140,110,>120,Normal,109,ya,1.5,flat,terkena penyakit
+64,laki-laki,asymptomatic,150,193,<120,ST-T Abnormal,135,ya,0.5,flat,terkena penyakit
+72,laki-laki,asymptomatic,160,123,>120,Hipertrophy,130,tidak,1.5,flat,terkena penyakit
+69,laki-laki,asymptomatic,142,210,>120,ST-T Abnormal,112,ya,1.5,flat,terkena penyakit
+56,laki-laki,asymptomatic,137,282,>120,Normal,126,ya,1.2,flat,terkena penyakit
+62,laki-laki,asymptomatic,139,170,<120,ST-T Abnormal,120,ya,3.0,flat,terkena penyakit
+67,laki-laki,asymptomatic,146,369,<120,Normal,110,ya,1.9,flat,terkena penyakit
+57,laki-laki,asymptomatic,156,173,<120,Hipertrophy,119,ya,3.0,downsloping,terkena penyakit
+69,laki-laki,asymptomatic,145,289,>120,ST-T Abnormal,110,ya,1.8,flat,terkena penyakit
+51,laki-laki,asymptomatic,131,152,>120,Hipertrophy,130,ya,1.0,flat,terkena penyakit
+48,laki-laki,asymptomatic,140,208,<120,Normal,159,ya,1.5,upsloping,terkena penyakit
+69,laki-laki,asymptomatic,122,216,>120,Hipertrophy,96,ya,0.0,flat,terkena penyakit
+69,laki-laki,non-anginal pain,142,271,<120,Hipertrophy,126,tidak,0.3,upsloping,tidak terkena penyakit
+64,laki-laki,asymptomatic,141,244,>120,ST-T Abnormal,116,ya,1.5,flat,terkena penyakit
+57,laki-laki,atypical angina,160,285,>120,ST-T Abnormal,120,tidak,0.8,flat,terkena penyakit
+53,laki-laki,asymptomatic,124,243,<120,Normal,122,ya,2.0,flat,terkena penyakit
+37,laki-laki,non-anginal pain,118,240,<120,Hipertrophy,165,tidak,1.0,flat,tidak terkena penyakit
+67,laki-laki,asymptomatic,140,219,<120,ST-T Abnormal,122,ya,2.0,flat,terkena penyakit
+74,laki-laki,non-anginal pain,140,237,>120,Normal,96,tidak,0.0,flat,terkena penyakit
+63,laki-laki,atypical angina,136,165,<120,ST-T Abnormal,133,tidak,0.2,upsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,106,213,<120,ST-T Abnormal,110,tidak,0.0,upsloping,tidak terkena penyakit
+61,laki-laki,asymptomatic,160,287,>120,Hipertrophy,150,ya,2.0,downsloping,terkena penyakit
+64,laki-laki,asymptomatic,130,258,>120,Hipertrophy,130,tidak,0.0,flat,terkena penyakit
+58,laki-laki,asymptomatic,160,256,>120,Hipertrophy,113,ya,1.0,upsloping,terkena penyakit
+60,laki-laki,asymptomatic,130,186,>120,Hipertrophy,140,ya,0.5,flat,terkena penyakit
+57,laki-laki,asymptomatic,122,264,<120,Hipertrophy,100,tidak,0.0,flat,terkena penyakit
+55,laki-laki,non-anginal pain,133,185,<120,ST-T Abnormal,136,tidak,0.2,upsloping,tidak terkena penyakit
+55,laki-laki,asymptomatic,120,226,<120,Hipertrophy,127,ya,1.7,downsloping,terkena penyakit
+56,laki-laki,asymptomatic,130,203,>120,Normal,98,tidak,1.5,flat,terkena penyakit
+57,laki-laki,asymptomatic,130,207,<120,ST-T Abnormal,96,ya,1.0,flat,tidak terkena penyakit
+61,laki-laki,non-anginal pain,140,284,<120,Normal,123,ya,1.3,flat,terkena penyakit
+61,laki-laki,non-anginal pain,120,337,<120,Normal,98,ya,0.0,flat,terkena penyakit
+74,laki-laki,asymptomatic,155,310,<120,Normal,112,ya,1.5,downsloping,terkena penyakit
+68,laki-laki,non-anginal pain,134,254,>120,Normal,151,ya,0.0,upsloping,tidak terkena penyakit
+51,perempuan,asymptomatic,114,258,>120,Hipertrophy,96,tidak,1.0,upsloping,tidak terkena penyakit
+62,laki-laki,asymptomatic,160,254,>120,ST-T Abnormal,108,ya,3.0,flat,terkena penyakit
+53,laki-laki,asymptomatic,144,300,>120,ST-T Abnormal,128,ya,1.5,flat,terkena penyakit
+62,laki-laki,asymptomatic,158,170,<120,ST-T Abnormal,138,ya,0.0,flat,terkena penyakit
+46,laki-laki,asymptomatic,134,310,<120,Normal,126,tidak,0.0,flat,terkena penyakit
+54,perempuan,asymptomatic,127,333,>120,ST-T Abnormal,154,tidak,0.0,flat,terkena penyakit
+62,laki-laki,typical angina,135,139,<120,ST-T Abnormal,137,tidak,0.2,upsloping,tidak terkena penyakit
+55,laki-laki,asymptomatic,122,223,>120,ST-T Abnormal,100,tidak,0.0,flat,terkena penyakit
+58,laki-laki,asymptomatic,140,385,>120,Hipertrophy,135,tidak,0.3,upsloping,tidak terkena penyakit
+62,laki-laki,atypical angina,120,254,<120,Hipertrophy,96,ya,0.0,flat,terkena penyakit
+70,laki-laki,asymptomatic,130,322,<120,Hipertrophy,109,tidak,2.4,flat,terkena penyakit
+67,perempuan,non-anginal pain,115,385,<120,Hipertrophy,160,tidak,1.6,flat,tidak terkena penyakit
+57,laki-laki,atypical angina,124,261,<120,Normal,141,tidak,0.3,upsloping,terkena penyakit
+64,laki-laki,asymptomatic,128,263,<120,Normal,105,ya,0.2,flat,tidak terkena penyakit
+74,perempuan,atypical angina,120,269,<120,Hipertrophy,121,ya,0.2,upsloping,tidak terkena penyakit
+65,laki-laki,asymptomatic,120,177,<120,Normal,140,tidak,0.4,upsloping,tidak terkena penyakit
+56,laki-laki,non-anginal pain,130,256,>120,Hipertrophy,142,ya,0.6,flat,terkena penyakit
+59,laki-laki,asymptomatic,110,239,<120,Hipertrophy,142,ya,1.2,flat,terkena penyakit
+60,laki-laki,asymptomatic,140,293,<120,Hipertrophy,170,tidak,1.2,flat,terkena penyakit
+63,perempuan,asymptomatic,150,385,<120,Hipertrophy,154,tidak,3.0,flat,terkena penyakit
+59,laki-laki,asymptomatic,135,234,<120,Normal,161,tidak,0.5,flat,tidak terkena penyakit
+53,laki-laki,asymptomatic,142,226,<120,Hipertrophy,111,ya,0.0,upsloping,tidak terkena penyakit
+44,laki-laki,non-anginal pain,140,235,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+61,laki-laki,typical angina,134,234,<120,Normal,145,tidak,2.6,flat,terkena penyakit
+57,perempuan,asymptomatic,128,303,<120,Hipertrophy,159,tidak,0.0,upsloping,tidak terkena penyakit
+71,perempuan,asymptomatic,112,149,<120,Normal,125,tidak,1.6,flat,tidak terkena penyakit
+46,laki-laki,asymptomatic,140,311,<120,Normal,120,ya,1.8,flat,terkena penyakit
+53,laki-laki,asymptomatic,140,203,>120,Hipertrophy,155,ya,3.0,downsloping,terkena penyakit
+64,laki-laki,typical angina,110,211,<120,Hipertrophy,144,ya,1.8,flat,tidak terkena penyakit
+40,laki-laki,typical angina,140,199,<120,Normal,178,ya,1.4,upsloping,tidak terkena penyakit
+67,laki-laki,asymptomatic,120,229,<120,Hipertrophy,129,ya,2.6,flat,terkena penyakit
+48,laki-laki,atypical angina,130,245,<120,Hipertrophy,178,tidak,0.2,flat,tidak terkena penyakit
+43,laki-laki,asymptomatic,115,303,<120,Normal,178,tidak,1.2,flat,tidak terkena penyakit
+47,laki-laki,asymptomatic,112,204,<120,Normal,143,tidak,0.1,upsloping,tidak terkena penyakit
+54,perempuan,atypical angina,132,288,>120,Hipertrophy,159,ya,0.0,upsloping,tidak terkena penyakit
+48,perempuan,non-anginal pain,130,275,<120,Normal,139,tidak,0.2,upsloping,tidak terkena penyakit
+46,perempuan,asymptomatic,138,243,<120,Hipertrophy,152,ya,0.0,flat,tidak terkena penyakit
+51,perempuan,non-anginal pain,120,295,<120,Hipertrophy,157,tidak,0.6,upsloping,tidak terkena penyakit
+58,laki-laki,non-anginal pain,112,230,<120,Hipertrophy,165,tidak,2.5,flat,terkena penyakit
+71,perempuan,non-anginal pain,110,265,>120,Hipertrophy,130,tidak,0.0,upsloping,tidak terkena penyakit
+57,laki-laki,non-anginal pain,128,229,<120,Hipertrophy,150,tidak,0.4,flat,terkena penyakit
+66,laki-laki,asymptomatic,160,228,<120,Hipertrophy,138,tidak,2.3,upsloping,tidak terkena penyakit
+37,perempuan,non-anginal pain,120,215,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,asymptomatic,160,326,<120,Hipertrophy,140,ya,3.0,downsloping,terkena penyakit
+50,laki-laki,asymptomatic,144,200,<120,Hipertrophy,126,ya,0.9,flat,terkena penyakit
+48,laki-laki,asymptomatic,130,256,>120,Hipertrophy,150,ya,0.0,upsloping,terkena penyakit
+61,laki-laki,asymptomatic,140,207,<120,Hipertrophy,138,ya,1.9,upsloping,terkena penyakit
+59,laki-laki,typical angina,160,273,<120,Hipertrophy,125,tidak,0.0,upsloping,terkena penyakit
+42,laki-laki,non-anginal pain,130,180,<120,Normal,150,tidak,0.0,upsloping,tidak terkena penyakit
+48,laki-laki,asymptomatic,122,222,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+40,laki-laki,asymptomatic,152,223,<120,Normal,178,tidak,0.0,upsloping,terkena penyakit
+62,perempuan,asymptomatic,124,209,<120,Normal,163,tidak,0.0,upsloping,tidak terkena penyakit
+44,laki-laki,non-anginal pain,130,233,<120,Normal,178,ya,0.4,upsloping,tidak terkena penyakit
+46,laki-laki,atypical angina,106,197,>120,Normal,156,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,non-anginal pain,126,218,>120,Normal,134,tidak,2.2,flat,terkena penyakit
+58,laki-laki,non-anginal pain,140,211,>120,Hipertrophy,165,tidak,0.0,upsloping,tidak terkena penyakit
+49,laki-laki,non-anginal pain,118,149,<120,Hipertrophy,126,tidak,0.8,upsloping,terkena penyakit
+44,laki-laki,asymptomatic,110,197,<120,Hipertrophy,177,tidak,0.0,upsloping,terkena penyakit
+66,laki-laki,atypical angina,160,246,<120,Normal,120,ya,0.0,flat,terkena penyakit
+65,perempuan,asymptomatic,150,225,<120,Hipertrophy,114,tidak,1.0,flat,terkena penyakit
+42,laki-laki,asymptomatic,136,315,<120,Normal,125,ya,1.8,flat,terkena penyakit
+52,laki-laki,atypical angina,128,205,>120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+65,perempuan,non-anginal pain,140,385,>120,Hipertrophy,157,tidak,0.8,upsloping,tidak terkena penyakit
+63,perempuan,atypical angina,140,195,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+45,perempuan,atypical angina,130,234,<120,Hipertrophy,175,tidak,0.6,flat,tidak terkena penyakit
+41,perempuan,atypical angina,106,198,<120,Normal,168,tidak,0.0,upsloping,tidak terkena penyakit
+61,laki-laki,asymptomatic,138,166,<120,Hipertrophy,125,ya,3.0,flat,terkena penyakit
+60,perempuan,non-anginal pain,120,178,>120,Normal,96,tidak,0.0,upsloping,tidak terkena penyakit
+59,perempuan,asymptomatic,160,249,<120,Normal,143,ya,0.0,flat,terkena penyakit
+62,laki-laki,atypical angina,120,281,<120,Hipertrophy,103,tidak,1.4,flat,terkena penyakit
+57,laki-laki,non-anginal pain,150,126,>120,Normal,173,tidak,0.2,upsloping,tidak terkena penyakit
+51,perempuan,asymptomatic,130,305,<120,Normal,142,ya,1.2,flat,terkena penyakit
+44,laki-laki,non-anginal pain,120,226,<120,Normal,169,tidak,0.0,upsloping,tidak terkena penyakit
+60,perempuan,typical angina,150,240,<120,Normal,171,tidak,0.9,upsloping,tidak terkena penyakit
+63,laki-laki,typical angina,145,233,>120,Hipertrophy,150,tidak,2.3,downsloping,tidak terkena penyakit
+57,laki-laki,asymptomatic,150,276,<120,Hipertrophy,112,ya,0.6,flat,terkena penyakit
+51,laki-laki,asymptomatic,140,261,<120,Hipertrophy,178,ya,0.0,upsloping,tidak terkena penyakit
+58,perempuan,atypical angina,136,319,>120,Hipertrophy,152,tidak,0.0,upsloping,terkena penyakit
+44,perempuan,non-anginal pain,118,242,<120,Normal,149,tidak,0.3,flat,tidak terkena penyakit
+47,laki-laki,non-anginal pain,108,243,<120,Normal,152,tidak,0.0,upsloping,terkena penyakit
+61,laki-laki,asymptomatic,120,260,<120,Normal,140,ya,3.0,flat,terkena penyakit
+57,perempuan,asymptomatic,120,354,<120,Normal,163,ya,0.6,upsloping,tidak terkena penyakit
+70,laki-laki,atypical angina,156,245,<120,Hipertrophy,143,tidak,0.0,upsloping,tidak terkena penyakit
+76,perempuan,non-anginal pain,140,197,<120,ST-T Abnormal,116,tidak,1.1,flat,tidak terkena penyakit
+67,perempuan,asymptomatic,106,223,<120,Normal,142,tidak,0.3,upsloping,tidak terkena penyakit
+45,laki-laki,asymptomatic,142,309,<120,Hipertrophy,147,ya,0.0,flat,terkena penyakit
+45,laki-laki,asymptomatic,106,208,<120,Hipertrophy,148,ya,3.0,flat,tidak terkena penyakit
+39,perempuan,non-anginal pain,106,199,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+42,perempuan,non-anginal pain,120,209,<120,Normal,173,tidak,0.0,flat,tidak terkena penyakit
+56,laki-laki,atypical angina,120,236,<120,Normal,178,tidak,0.8,upsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,146,218,<120,Normal,105,tidak,2.0,flat,terkena penyakit
+35,laki-laki,asymptomatic,120,198,<120,Normal,130,ya,1.6,flat,terkena penyakit
+58,laki-laki,asymptomatic,150,270,<120,Hipertrophy,111,ya,0.8,upsloping,terkena penyakit
+41,laki-laki,non-anginal pain,130,214,<120,Hipertrophy,168,tidak,2.0,flat,tidak terkena penyakit
+57,laki-laki,asymptomatic,110,201,<120,Normal,126,ya,1.5,flat,tidak terkena penyakit
+42,laki-laki,typical angina,148,244,<120,Hipertrophy,178,tidak,0.8,upsloping,tidak terkena penyakit
+62,laki-laki,atypical angina,128,208,>120,Hipertrophy,140,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,typical angina,160,270,<120,Hipertrophy,145,tidak,3.0,downsloping,tidak terkena penyakit
+41,perempuan,atypical angina,126,306,<120,Normal,163,tidak,0.0,upsloping,tidak terkena penyakit
+50,laki-laki,asymptomatic,150,243,<120,Hipertrophy,128,tidak,2.6,flat,terkena penyakit
+59,laki-laki,atypical angina,140,221,<120,Normal,164,ya,0.0,upsloping,tidak terkena penyakit
+61,perempuan,asymptomatic,130,330,<120,Hipertrophy,169,tidak,0.0,upsloping,terkena penyakit
+54,laki-laki,asymptomatic,124,266,<120,Hipertrophy,109,ya,2.2,flat,terkena penyakit
+54,laki-laki,asymptomatic,110,206,<120,Hipertrophy,108,ya,0.0,flat,terkena penyakit
+52,laki-laki,asymptomatic,125,212,<120,Normal,168,tidak,1.0,upsloping,terkena penyakit
+47,laki-laki,asymptomatic,110,275,<120,Hipertrophy,118,ya,1.0,flat,terkena penyakit
+66,laki-laki,asymptomatic,120,302,<120,Hipertrophy,151,tidak,0.4,flat,tidak terkena penyakit
+58,laki-laki,asymptomatic,106,234,<120,Normal,156,tidak,0.1,upsloping,terkena penyakit
+64,perempuan,non-anginal pain,140,313,<120,Normal,133,tidak,0.2,upsloping,tidak terkena penyakit
+50,perempuan,atypical angina,120,244,<120,Normal,162,tidak,1.1,upsloping,tidak terkena penyakit
+44,perempuan,non-anginal pain,108,141,<120,Normal,175,tidak,0.6,flat,tidak terkena penyakit
+67,laki-laki,asymptomatic,120,237,<120,Normal,96,tidak,1.0,flat,terkena penyakit
+49,perempuan,asymptomatic,130,269,<120,Normal,163,tidak,0.0,upsloping,tidak terkena penyakit
+57,laki-laki,asymptomatic,160,289,>120,Hipertrophy,124,tidak,1.0,flat,terkena penyakit
+63,laki-laki,asymptomatic,130,254,<120,Hipertrophy,147,tidak,1.4,flat,terkena penyakit
+48,laki-laki,asymptomatic,124,274,<120,Hipertrophy,166,tidak,0.5,flat,terkena penyakit
+51,laki-laki,non-anginal pain,106,222,<120,Normal,143,ya,1.2,flat,tidak terkena penyakit
+60,perempuan,asymptomatic,150,258,<120,Hipertrophy,157,tidak,2.6,flat,terkena penyakit
+59,laki-laki,asymptomatic,140,177,<120,Normal,162,ya,0.0,upsloping,terkena penyakit
+45,perempuan,atypical angina,112,160,<120,Normal,138,tidak,0.0,flat,tidak terkena penyakit
+55,perempuan,asymptomatic,160,327,<120,ST-T Abnormal,117,ya,3.0,flat,terkena penyakit
+41,laki-laki,atypical angina,110,235,<120,Normal,153,tidak,0.0,upsloping,tidak terkena penyakit
+60,perempuan,asymptomatic,158,305,<120,Hipertrophy,161,tidak,0.0,upsloping,terkena penyakit
+54,perempuan,non-anginal pain,135,304,>120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+42,laki-laki,atypical angina,120,295,<120,Normal,162,tidak,0.0,upsloping,tidak terkena penyakit
+49,perempuan,atypical angina,134,271,<120,Normal,162,tidak,0.0,flat,tidak terkena penyakit
+46,laki-laki,asymptomatic,120,249,<120,Hipertrophy,144,tidak,0.8,upsloping,terkena penyakit
+56,perempuan,asymptomatic,160,288,>120,Hipertrophy,133,ya,3.0,downsloping,terkena penyakit
+66,perempuan,typical angina,150,226,<120,Normal,114,tidak,2.6,downsloping,tidak terkena penyakit
+56,laki-laki,asymptomatic,130,283,>120,Hipertrophy,103,ya,1.6,downsloping,terkena penyakit
+49,laki-laki,non-anginal pain,120,188,<120,Normal,139,tidak,2.0,flat,terkena penyakit
+54,laki-laki,asymptomatic,122,286,<120,Hipertrophy,116,ya,3.0,flat,terkena penyakit
+57,laki-laki,asymptomatic,152,274,<120,Normal,96,ya,1.2,flat,terkena penyakit
+65,perempuan,non-anginal pain,160,360,<120,Hipertrophy,151,tidak,0.8,upsloping,tidak terkena penyakit
+54,laki-laki,non-anginal pain,125,273,<120,Hipertrophy,152,tidak,0.5,downsloping,tidak terkena penyakit
+54,perempuan,non-anginal pain,160,201,<120,Normal,163,tidak,0.0,upsloping,tidak terkena penyakit
+62,laki-laki,asymptomatic,120,267,<120,Normal,99,ya,1.8,flat,terkena penyakit
+52,perempuan,non-anginal pain,136,196,<120,Hipertrophy,169,tidak,0.1,flat,tidak terkena penyakit
+52,laki-laki,atypical angina,134,201,<120,Normal,158,tidak,0.8,upsloping,tidak terkena penyakit
+60,laki-laki,asymptomatic,117,230,>120,Normal,160,ya,1.4,upsloping,terkena penyakit
+63,perempuan,asymptomatic,108,269,<120,Normal,169,ya,1.8,flat,terkena penyakit
+66,laki-laki,asymptomatic,112,212,<120,Hipertrophy,132,ya,0.1,upsloping,terkena penyakit
+42,laki-laki,asymptomatic,140,226,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+64,laki-laki,asymptomatic,120,246,<120,Hipertrophy,96,ya,2.2,downsloping,terkena penyakit
+54,laki-laki,non-anginal pain,150,232,<120,Hipertrophy,165,tidak,1.6,upsloping,tidak terkena penyakit
+46,perempuan,non-anginal pain,142,177,<120,Hipertrophy,160,ya,1.4,downsloping,tidak terkena penyakit
+67,perempuan,non-anginal pain,152,277,<120,Normal,172,tidak,0.0,upsloping,tidak terkena penyakit
+56,laki-laki,asymptomatic,125,249,>120,Hipertrophy,144,ya,1.2,flat,terkena penyakit
+34,perempuan,atypical angina,118,210,<120,Normal,178,tidak,0.7,upsloping,tidak terkena penyakit
+57,laki-laki,asymptomatic,132,207,<120,Normal,168,ya,0.0,upsloping,tidak terkena penyakit
+64,laki-laki,asymptomatic,145,212,<120,Hipertrophy,132,tidak,2.0,flat,terkena penyakit
+59,laki-laki,asymptomatic,138,271,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+50,laki-laki,non-anginal pain,140,233,<120,Normal,163,tidak,0.6,flat,terkena penyakit
+51,laki-laki,typical angina,125,213,<120,Hipertrophy,125,ya,1.4,upsloping,tidak terkena penyakit
+54,laki-laki,atypical angina,160,283,<120,Hipertrophy,178,tidak,0.0,upsloping,terkena penyakit
+53,laki-laki,asymptomatic,123,282,<120,Normal,96,ya,2.0,flat,terkena penyakit
+52,laki-laki,asymptomatic,112,230,<120,Normal,160,tidak,0.0,upsloping,terkena penyakit
+40,laki-laki,asymptomatic,110,167,<120,Hipertrophy,114,ya,2.0,flat,terkena penyakit
+58,laki-laki,non-anginal pain,132,224,<120,Hipertrophy,173,tidak,3.0,upsloping,terkena penyakit
+41,perempuan,non-anginal pain,112,268,<120,Hipertrophy,172,ya,0.0,upsloping,tidak terkena penyakit
+41,laki-laki,non-anginal pain,112,250,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+50,perempuan,non-anginal pain,120,219,<120,Normal,158,tidak,1.6,flat,tidak terkena penyakit
+54,perempuan,non-anginal pain,108,267,<120,Hipertrophy,167,tidak,0.0,upsloping,tidak terkena penyakit
+64,perempuan,asymptomatic,130,303,<120,Normal,122,tidak,2.0,flat,tidak terkena penyakit
+51,perempuan,non-anginal pain,130,256,<120,Hipertrophy,149,tidak,0.5,upsloping,tidak terkena penyakit
+46,perempuan,atypical angina,106,204,<120,Normal,172,tidak,0.0,upsloping,tidak terkena penyakit
+55,laki-laki,asymptomatic,140,217,<120,Normal,111,ya,3.0,downsloping,terkena penyakit
+45,laki-laki,atypical angina,128,308,<120,Hipertrophy,170,tidak,0.0,upsloping,tidak terkena penyakit
+56,laki-laki,typical angina,120,193,<120,Hipertrophy,162,tidak,1.9,flat,tidak terkena penyakit
+66,perempuan,asymptomatic,160,228,>120,Normal,165,ya,1.0,flat,terkena penyakit
+38,laki-laki,typical angina,120,231,<120,Normal,178,ya,3.0,flat,terkena penyakit
+62,perempuan,asymptomatic,150,244,<120,Normal,154,ya,1.4,flat,terkena penyakit
+55,laki-laki,atypical angina,130,262,<120,Normal,155,tidak,0.0,upsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,128,259,<120,Hipertrophy,130,ya,3.0,flat,terkena penyakit
+43,laki-laki,asymptomatic,110,211,<120,Normal,161,tidak,0.0,upsloping,tidak terkena penyakit
+64,perempuan,asymptomatic,160,325,<120,Normal,154,ya,0.0,upsloping,tidak terkena penyakit
+50,perempuan,asymptomatic,110,254,<120,Hipertrophy,159,tidak,0.0,upsloping,tidak terkena penyakit
+53,laki-laki,non-anginal pain,130,197,>120,Hipertrophy,152,tidak,1.2,downsloping,tidak terkena penyakit
+45,perempuan,asymptomatic,138,236,<120,Hipertrophy,152,ya,0.2,flat,tidak terkena penyakit
+65,laki-laki,typical angina,138,282,>120,Hipertrophy,174,tidak,1.4,flat,terkena penyakit
+69,laki-laki,typical angina,160,234,>120,Hipertrophy,131,tidak,0.1,flat,tidak terkena penyakit
+69,laki-laki,non-anginal pain,140,254,<120,Hipertrophy,146,tidak,2.0,flat,terkena penyakit
+67,laki-laki,asymptomatic,106,299,<120,Hipertrophy,125,ya,0.9,flat,terkena penyakit
+68,perempuan,non-anginal pain,120,211,<120,Hipertrophy,115,tidak,1.5,flat,tidak terkena penyakit
+34,laki-laki,typical angina,118,182,<120,Hipertrophy,174,tidak,0.0,upsloping,tidak terkena penyakit
+62,perempuan,asymptomatic,138,294,>120,Normal,106,tidak,1.9,flat,terkena penyakit
+51,laki-laki,asymptomatic,140,298,<120,Normal,122,ya,3.0,flat,terkena penyakit
+46,laki-laki,non-anginal pain,150,231,<120,Normal,147,tidak,3.0,flat,terkena penyakit
+67,laki-laki,asymptomatic,125,254,>120,Normal,163,tidak,0.2,flat,terkena penyakit
+50,laki-laki,non-anginal pain,129,196,<120,Normal,163,tidak,0.0,upsloping,tidak terkena penyakit
+42,laki-laki,non-anginal pain,120,240,>120,Normal,178,tidak,0.8,downsloping,tidak terkena penyakit
+56,perempuan,asymptomatic,134,385,<120,Hipertrophy,150,ya,1.9,flat,terkena penyakit
+41,laki-laki,asymptomatic,110,172,<120,Hipertrophy,158,tidak,0.0,upsloping,terkena penyakit
+42,perempuan,asymptomatic,106,265,<120,Hipertrophy,122,tidak,0.6,flat,tidak terkena penyakit
+53,laki-laki,non-anginal pain,130,246,>120,Hipertrophy,173,tidak,0.0,upsloping,tidak terkena penyakit
+43,laki-laki,non-anginal pain,130,315,<120,Normal,162,tidak,1.9,upsloping,tidak terkena penyakit
+56,laki-laki,asymptomatic,132,184,<120,Hipertrophy,105,ya,2.1,flat,terkena penyakit
+52,laki-laki,asymptomatic,108,233,>120,Normal,147,tidak,0.1,upsloping,tidak terkena penyakit
+62,perempuan,asymptomatic,140,385,<120,Hipertrophy,157,tidak,1.2,flat,tidak terkena penyakit
+70,laki-laki,non-anginal pain,160,269,<120,Normal,112,ya,2.9,flat,terkena penyakit
+54,laki-laki,asymptomatic,140,239,<120,Normal,160,tidak,1.2,upsloping,tidak terkena penyakit
+70,laki-laki,asymptomatic,145,174,<120,Normal,125,ya,2.6,downsloping,terkena penyakit
+54,laki-laki,atypical angina,108,309,<120,Normal,156,tidak,0.0,upsloping,tidak terkena penyakit
+35,laki-laki,asymptomatic,126,282,<120,Hipertrophy,156,ya,0.0,upsloping,terkena penyakit
+48,laki-laki,non-anginal pain,124,255,>120,Normal,175,tidak,0.0,upsloping,tidak terkena penyakit
+55,perempuan,atypical angina,135,250,<120,Hipertrophy,161,tidak,1.4,flat,tidak terkena penyakit
+58,perempuan,asymptomatic,106,248,<120,Hipertrophy,122,tidak,1.0,flat,tidak terkena penyakit
+54,perempuan,non-anginal pain,110,214,<120,Normal,158,tidak,1.6,flat,tidak terkena penyakit
+69,perempuan,typical angina,140,239,<120,Normal,151,tidak,1.8,upsloping,tidak terkena penyakit
+77,laki-laki,asymptomatic,125,304,<120,Hipertrophy,162,ya,0.0,upsloping,terkena penyakit
+68,laki-laki,non-anginal pain,118,277,<120,Normal,151,tidak,1.0,upsloping,tidak terkena penyakit
+58,laki-laki,asymptomatic,125,300,<120,Hipertrophy,171,tidak,0.0,upsloping,terkena penyakit
+60,laki-laki,asymptomatic,125,258,<120,Hipertrophy,141,ya,2.8,flat,terkena penyakit
+51,laki-laki,asymptomatic,140,299,<120,Normal,173,ya,1.6,upsloping,terkena penyakit
+55,laki-laki,asymptomatic,160,289,<120,Hipertrophy,145,ya,0.8,flat,terkena penyakit
+52,laki-laki,typical angina,152,298,>120,Normal,178,tidak,1.2,flat,tidak terkena penyakit
+60,perempuan,non-anginal pain,106,318,<120,Normal,160,tidak,0.0,upsloping,tidak terkena penyakit
+58,laki-laki,non-anginal pain,106,240,<120,Hipertrophy,154,ya,0.6,flat,tidak terkena penyakit
+64,laki-laki,non-anginal pain,125,309,<120,Normal,131,ya,1.8,flat,terkena penyakit
+37,laki-laki,non-anginal pain,130,250,<120,Normal,178,tidak,3.0,downsloping,tidak terkena penyakit
+59,laki-laki,typical angina,160,288,<120,Hipertrophy,159,tidak,0.2,flat,terkena penyakit
+51,laki-laki,non-anginal pain,125,245,>120,Hipertrophy,166,tidak,2.4,flat,tidak terkena penyakit
+43,perempuan,non-anginal pain,122,213,<120,Normal,165,tidak,0.2,flat,tidak terkena penyakit
+58,laki-laki,asymptomatic,128,216,<120,Hipertrophy,131,ya,2.2,flat,terkena penyakit
+29,laki-laki,atypical angina,130,204,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+41,perempuan,atypical angina,130,204,<120,Hipertrophy,172,tidak,1.4,upsloping,tidak terkena penyakit
+63,perempuan,non-anginal pain,135,252,<120,Hipertrophy,172,tidak,0.0,upsloping,tidak terkena penyakit
+51,laki-laki,non-anginal pain,106,227,<120,Normal,154,ya,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,non-anginal pain,120,258,<120,Hipertrophy,147,tidak,0.4,flat,tidak terkena penyakit
+44,laki-laki,atypical angina,120,220,<120,Normal,170,tidak,0.0,upsloping,tidak terkena penyakit
+54,laki-laki,asymptomatic,110,239,<120,Normal,126,ya,2.8,flat,terkena penyakit
+65,laki-laki,asymptomatic,135,254,<120,Hipertrophy,127,tidak,2.8,flat,terkena penyakit
+57,laki-laki,non-anginal pain,150,168,<120,Normal,174,tidak,1.6,upsloping,tidak terkena penyakit
+63,laki-laki,asymptomatic,130,330,>120,Hipertrophy,132,ya,1.8,upsloping,terkena penyakit
+35,perempuan,asymptomatic,138,183,<120,Normal,178,tidak,1.4,upsloping,tidak terkena penyakit
+41,laki-laki,atypical angina,135,203,<120,Normal,132,tidak,0.0,flat,tidak terkena penyakit
+62,perempuan,non-anginal pain,130,263,<120,Normal,97,tidak,1.2,flat,terkena penyakit
+43,perempuan,asymptomatic,132,341,>120,Hipertrophy,136,ya,3.0,flat,terkena penyakit
+58,perempuan,typical angina,150,283,>120,Hipertrophy,162,tidak,1.0,upsloping,tidak terkena penyakit
+52,laki-laki,typical angina,118,186,<120,Hipertrophy,178,tidak,0.0,flat,tidak terkena penyakit
+61,perempuan,asymptomatic,145,307,<120,Hipertrophy,146,ya,1.0,flat,terkena penyakit
+39,laki-laki,asymptomatic,118,219,<120,Normal,140,tidak,1.2,flat,terkena penyakit
+45,laki-laki,asymptomatic,115,260,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,asymptomatic,128,255,<120,Normal,161,ya,0.0,upsloping,terkena penyakit
+62,laki-laki,non-anginal pain,130,231,<120,Normal,146,tidak,1.8,flat,tidak terkena penyakit
+62,perempuan,asymptomatic,160,164,<120,Hipertrophy,145,tidak,3.0,downsloping,terkena penyakit
+53,perempuan,asymptomatic,138,234,<120,Hipertrophy,160,tidak,0.0,upsloping,tidak terkena penyakit
+43,laki-laki,asymptomatic,120,177,<120,Hipertrophy,120,ya,2.5,flat,terkena penyakit
+47,laki-laki,non-anginal pain,138,257,<120,Hipertrophy,156,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,atypical angina,120,325,<120,Normal,172,tidak,0.2,upsloping,tidak terkena penyakit
+68,laki-laki,non-anginal pain,160,274,>120,Hipertrophy,150,ya,1.6,flat,terkena penyakit
+39,laki-laki,non-anginal pain,140,321,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+53,perempuan,asymptomatic,130,264,<120,Hipertrophy,143,tidak,0.4,flat,tidak terkena penyakit
+62,perempuan,asymptomatic,140,268,<120,Hipertrophy,160,tidak,3.0,downsloping,terkena penyakit
+51,perempuan,non-anginal pain,140,308,<120,Hipertrophy,142,tidak,1.5,upsloping,tidak terkena penyakit
+60,laki-laki,asymptomatic,130,253,<120,Normal,144,ya,1.4,upsloping,terkena penyakit
+65,laki-laki,asymptomatic,110,248,<120,Hipertrophy,158,tidak,0.6,upsloping,terkena penyakit
+65,perempuan,non-anginal pain,155,269,<120,Normal,148,tidak,0.8,upsloping,tidak terkena penyakit
+60,laki-laki,non-anginal pain,140,185,<120,Hipertrophy,155,tidak,3.0,flat,terkena penyakit
+60,laki-laki,asymptomatic,145,282,<120,Hipertrophy,142,ya,2.8,flat,terkena penyakit
+54,laki-laki,asymptomatic,120,188,<120,Normal,113,tidak,1.4,flat,terkena penyakit
+44,laki-laki,atypical angina,130,219,<120,Hipertrophy,178,tidak,0.0,upsloping,tidak terkena penyakit
+44,laki-laki,asymptomatic,112,290,<120,Hipertrophy,153,tidak,0.0,upsloping,terkena penyakit
+51,laki-laki,non-anginal pain,110,175,<120,Normal,123,tidak,0.6,upsloping,tidak terkena penyakit
+59,laki-laki,non-anginal pain,150,212,>120,Normal,157,tidak,1.6,upsloping,tidak terkena penyakit
+71,perempuan,atypical angina,160,302,<120,Normal,162,tidak,0.4,upsloping,tidak terkena penyakit
+61,laki-laki,non-anginal pain,150,243,>120,Normal,137,ya,1.0,flat,tidak terkena penyakit
+55,laki-laki,asymptomatic,132,353,<120,Normal,132,ya,1.2,flat,terkena penyakit
+64,laki-laki,non-anginal pain,140,335,<120,Normal,158,tidak,0.0,upsloping,terkena penyakit
+43,laki-laki,asymptomatic,150,247,<120,Normal,171,tidak,1.5,upsloping,tidak terkena penyakit
+58,perempuan,non-anginal pain,120,340,<120,Normal,172,tidak,0.0,upsloping,tidak terkena penyakit
+60,laki-laki,asymptomatic,130,206,<120,Hipertrophy,132,ya,2.4,flat,terkena penyakit
+58,laki-laki,atypical angina,120,284,<120,Hipertrophy,160,tidak,1.8,flat,terkena penyakit
+49,laki-laki,atypical angina,130,266,<120,Normal,171,tidak,0.6,upsloping,tidak terkena penyakit
+48,laki-laki,atypical angina,110,229,<120,Normal,168,tidak,1.0,downsloping,terkena penyakit
+52,laki-laki,non-anginal pain,160,199,>120,Normal,162,tidak,0.5,upsloping,tidak terkena penyakit
+44,laki-laki,atypical angina,120,263,<120,Normal,173,tidak,0.0,upsloping,tidak terkena penyakit
+56,perempuan,atypical angina,140,294,<120,Hipertrophy,153,tidak,1.3,flat,tidak terkena penyakit
+57,laki-laki,asymptomatic,140,192,<120,Normal,148,tidak,0.4,flat,tidak terkena penyakit
+67,laki-laki,asymptomatic,160,286,<120,Hipertrophy,108,ya,1.5,flat,terkena penyakit
+53,perempuan,non-anginal pain,128,216,<120,Hipertrophy,115,tidak,0.0,upsloping,tidak terkena penyakit
+52,laki-laki,non-anginal pain,138,223,<120,Normal,169,tidak,0.0,upsloping,tidak terkena penyakit
+43,laki-laki,asymptomatic,132,247,>120,Hipertrophy,143,ya,0.1,flat,terkena penyakit
+52,laki-laki,asymptomatic,128,204,>120,Normal,156,ya,1.0,flat,terkena penyakit
+59,laki-laki,typical angina,134,204,<120,Normal,162,tidak,0.8,upsloping,terkena penyakit
+64,laki-laki,typical angina,160,227,<120,Hipertrophy,155,tidak,0.6,flat,tidak terkena penyakit
+66,perempuan,non-anginal pain,146,278,<120,Hipertrophy,152,tidak,0.0,flat,tidak terkena penyakit
+39,perempuan,non-anginal pain,138,220,<120,Normal,152,tidak,0.0,flat,tidak terkena penyakit
+57,laki-laki,atypical angina,154,232,<120,Hipertrophy,164,tidak,0.0,upsloping,terkena penyakit
+58,perempuan,asymptomatic,130,197,<120,Normal,131,tidak,0.6,flat,tidak terkena penyakit
+57,laki-laki,asymptomatic,110,335,<120,Normal,143,ya,3.0,flat,terkena penyakit
+47,laki-laki,non-anginal pain,130,253,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+55,perempuan,asymptomatic,128,205,<120,ST-T Abnormal,130,ya,2.0,flat,terkena penyakit
+35,laki-laki,atypical angina,122,192,<120,Normal,174,tidak,0.0,upsloping,tidak terkena penyakit
+61,laki-laki,asymptomatic,148,203,<120,Normal,161,tidak,0.0,upsloping,terkena penyakit
+58,laki-laki,asymptomatic,114,318,<120,ST-T Abnormal,140,tidak,3.0,downsloping,terkena penyakit
+58,perempuan,asymptomatic,160,225,>120,Hipertrophy,146,ya,2.8,flat,terkena penyakit
+58,laki-laki,atypical angina,125,220,<120,Normal,144,tidak,0.4,flat,tidak terkena penyakit
+56,laki-laki,atypical angina,130,221,<120,Hipertrophy,163,tidak,0.0,upsloping,tidak terkena penyakit
+56,laki-laki,atypical angina,120,240,<120,Normal,169,tidak,0.0,downsloping,tidak terkena penyakit
+67,laki-laki,non-anginal pain,152,212,<120,Hipertrophy,150,tidak,0.8,flat,terkena penyakit
+55,perempuan,atypical angina,132,342,<120,Normal,166,tidak,1.2,upsloping,tidak terkena penyakit
+44,laki-laki,asymptomatic,120,169,<120,Normal,144,ya,2.8,downsloping,terkena penyakit
+63,laki-laki,asymptomatic,140,187,<120,Hipertrophy,144,ya,3.0,upsloping,terkena penyakit
+63,perempuan,asymptomatic,124,197,<120,Normal,136,ya,0.0,flat,terkena penyakit
+41,laki-laki,atypical angina,120,157,<120,Normal,178,tidak,0.0,upsloping,tidak terkena penyakit
+59,laki-laki,asymptomatic,160,176,>120,Hipertrophy,96,tidak,1.0,flat,terkena penyakit
+57,perempuan,asymptomatic,140,241,<120,Normal,123,ya,0.2,flat,terkena penyakit
+45,laki-laki,typical angina,110,264,<120,Normal,132,tidak,1.2,flat,terkena penyakit
+68,laki-laki,asymptomatic,144,193,>120,Normal,141,tidak,3.0,flat,terkena penyakit
+57,laki-laki,asymptomatic,130,131,<120,Normal,115,ya,1.2,flat,terkena penyakit
+57,perempuan,atypical angina,130,236,<120,Hipertrophy,174,tidak,0.0,flat,terkena penyakit
+38,laki-laki,non-anginal pain,138,175,<120,Normal,173,tidak,0.0,upsloping,tidak terkena penyakit
