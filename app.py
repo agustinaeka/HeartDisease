@@ -1,5 +1,7 @@
-# database
+
 from PIL import Image
+import lime.lime_tabular
+import lime
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 from sklearn.linear_model import LogisticRegression
@@ -205,10 +207,6 @@ def main():
         if st.checkbox("Bar chart"):
             feat_choices1 = st.selectbox(
                 "Pilih feature", data_encode.columns.to_list())
-            # feat_choices2 = st.selectbox(
-            #     "Pilih feature pertama", col2)
-            # new_df = df[feat_choices]
-
             st.bar_chart(data_encode[feat_choices1].value_counts())
 
     elif choice == 'Prediction':
@@ -227,6 +225,19 @@ def main():
         # scale
         scaler = StandardScaler()
         scaler.fit(X_train)
+        X_train = pd.DataFrame(scaler.transform(
+            X_train), index=X_train.index, columns=X_train.columns)
+        X_test = pd.DataFrame(scaler.transform(
+            X_test), index=X_test.index, columns=X_test.columns)
+
+        # model
+        # model
+        model = LogisticRegression(
+            penalty='l1', C=0.23, solver='liblinear', max_iter=100)
+        model.fit(X_train, y_train)
+
+        X_test_pred = model.predict(X_test)
+        X_test_acc = accuracy_score(X_test_pred, y_test)
 
         st.subheader('Predictive Analytics')
 
@@ -313,12 +324,14 @@ def main():
                 #####################
                 st.warning(
                     "Pasien terdiagnosa penyakit Jantung")
-                pred_probability_score = {
-                    "Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][0]*100),
-                    "Tidak Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][1]*100)}
-                st.subheader(
-                    "Prediction Probability Score ")
-                st.json(pred_probability_score)
+                # pred_probability_score = {
+                #     "Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][0]*100),
+                #     "Tidak Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][1]*100)}
+                # st.subheader(
+                #     "Prediction Probability Score ")
+                # st.json(pred_probability_score)
+                st.subheader('Model Accuracy')
+                st.write("{:.2f}%".format(X_test_acc * 100))
 
                 st.subheader("Prescriptive Analytics")
                 st.markdown(prescriptive_message_temp,
@@ -327,12 +340,14 @@ def main():
             else:
                 st.success(
                     "Pasien Tidak terdiagnosa penyakit Jantung")
-                pred_probability_score = {
-                    "Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][0]*100),
-                    "Tidak Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][1]*100)}
-                st.subheader(
-                    "Prediction Probability Score ")
-                st.json(pred_probability_score)
+                # pred_probability_score = {
+                #     "Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][0]*100),
+                #     "Tidak Terdiagnosa penyakit Jantung": "{:.2f}%".format(pred_prob[0][1]*100)}
+                # st.subheader(
+                #     "Prediction Probability Score ")
+                # st.json(pred_probability_score)
+                st.subheader('Model Accuracy')
+                st.write("{:.2f}%".format(X_test_acc * 100))
 
 
 ######################################################################
